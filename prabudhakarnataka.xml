@@ -1019,7 +1019,7 @@
 		</part>
 	</volume>
 	<volume vnum="008">
-		<part pnum="01" snum="027" month="ವಿನಾಯಕನ ಸಂಂಚಿಕೆ" year="1926" maasa="" samvatsara="ಅಕ್ಷಯ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="027" month="ವಿನಾಯಕನ ಸಂಂಚಿಕೆ" year="1926" maasa="" samvatsara="ಅಕ್ಷಯ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಕವನ</feature>
@@ -1091,7 +1091,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="028" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1926" maasa="" samvatsara="ಅಕ್ಷಯ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="028" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1926" maasa="" samvatsara="ಅಕ್ಷಯ">
 			<entry>
 				<title>ಪರತತ್ವ</title>
 				<feature>ಕವನ</feature>
@@ -1151,7 +1151,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="029" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1926" maasa="" samvatsara="ಅಕ್ಷಯ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="029" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1926" maasa="" samvatsara="ಅಕ್ಷಯ">
 			<entry>
 				<title>ವಾಮನ</title>
 				<feature></feature>
@@ -1237,7 +1237,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="030" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1927" maasa="" samvatsara="ಅಕ್ಷಯ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="030" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1927" maasa="" samvatsara="ಅಕ್ಷಯ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಕವನ</feature>
@@ -2175,7 +2175,7 @@
 		</part>
 	</volume>
 	<volume vnum="013">
-		<part pnum="01" snum="047" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1931" maasa="" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="047" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1931" maasa="" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಕವನ</feature>
@@ -2267,7 +2267,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="048" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1931" maasa="" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="048" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1931" maasa="" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ">
 			<entry>
 				<title>ಬಾಳ್ಕೆಯ ತೋಟ</title>
 				<feature>ಕವನ</feature>
@@ -2359,7 +2359,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="049" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1932" maasa="" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="049" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1932" maasa="" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ">
 			<entry>
 				<title>ಕವಿಗೀತೆ</title>
 				<feature>ಕವನ</feature>
@@ -2473,7 +2473,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="050" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1932" maasa="" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="050" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1932" maasa="" samvatsara="ಪ್ರಜೋತ್ಪತ್ತಿ">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಕವನ</feature>
@@ -2575,7 +2575,7 @@
 		</part>
 	</volume>
 	<volume vnum="014">
-		<part pnum="01" snum="051" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1932" maasa="" samvatsara="ಆಂಗಿರಸ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="051" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1932" maasa="" samvatsara="ಆಂಗಿರಸ">
 			<entry>
 				<title>ಉಷಃಕಾಲದಲ್ಲಿ</title>
 				<feature>ಕವನ</feature>
@@ -2675,7 +2675,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="052" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1932" maasa="" samvatsara="ಆಂಗಿರಸ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="052" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1932" maasa="" samvatsara="ಆಂಗಿರಸ">
 			<entry>
 				<title>ಕುಕ್ಕನಹಳ್ಳಿಯ ಕೆರೆಯಮೇಲೆ</title>
 				<feature>ಕವನ</feature>
@@ -2783,7 +2783,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="053" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1933" maasa="" samvatsara="ಆಂಗಿರಸ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="053" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1933" maasa="" samvatsara="ಆಂಗಿರಸ">
 			<entry>
 				<title>ಬುದ್ಧ ದೇವ</title>
 				<feature>ಕವನ</feature>
@@ -2907,7 +2907,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="054" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1933" maasa="" samvatsara="ಆಂಗಿರಸ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="054" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1933" maasa="" samvatsara="ಆಂಗಿರಸ">
 			<entry>
 				<title>ಭಾರತ ತಪಸ್ವಿನಿ</title>
 				<feature>ಕವನ</feature>
@@ -3033,7 +3033,7 @@
 		</part>
 	</volume>
 	<volume vnum="015">
-		<part pnum="01" snum="055" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1933" maasa="" samvatsara="ಶ್ರೀಮುಖ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="055" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1933" maasa="" samvatsara="ಶ್ರೀಮುಖ">
 			<entry>
 				<title>ಅಭೀಃ</title>
 				<feature>ಕವನ</feature>
@@ -3147,7 +3147,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="056" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1933" maasa="" samvatsara="ಶ್ರೀಮುಖ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="056" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1933" maasa="" samvatsara="ಶ್ರೀಮುಖ">
 			<entry>
 				<title>ಯದುಗಿರಿಯ ಇರುಳು</title>
 				<feature>ಕವನ</feature>
@@ -3231,7 +3231,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="057" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1934" maasa="" samvatsara="ಶ್ರೀಮುಖ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="057" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1934" maasa="" samvatsara="ಶ್ರೀಮುಖ">
 			<entry>
 				<title>ಭಾವಗೀತ</title>
 				<feature>ಕವನ</feature>
@@ -3347,7 +3347,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="058" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1934" maasa="" samvatsara="ಶ್ರೀಮುಖ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="058" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1934" maasa="" samvatsara="ಶ್ರೀಮುಖ">
 			<entry>
 				<title>ದೀಪ</title>
 				<feature>ಕವನ</feature>
@@ -3465,7 +3465,7 @@
 		</part>
 	</volume>
 	<volume vnum="016">
-		<part pnum="01" snum="059" month="ವಿನಾಯನಕ ಸಂಚಿಕೆ" year="1934" maasa="" samvatsara="ಭಾವ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="059" month="ವಿನಾಯನಕ ಸಂಚಿಕೆ" year="1934" maasa="" samvatsara="ಭಾವ">
 				<entry>
 				<title>ಕವಿಶೈಲ </title>
 				<feature>0001-0002</feature>
@@ -3573,7 +3573,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="060" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1934" maasa="" samvatsara="ಭಾವ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="060" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1934" maasa="" samvatsara="ಭಾವ">
 			<entry>
 				<title>ಬಲಿಪಾಡ್ಯಮಿ</title>
 				<feature>ಕವನ</feature>
@@ -3681,7 +3681,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="061" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1935" maasa="" samvatsara="ಭಾವ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="061" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1935" maasa="" samvatsara="ಭಾವ">
 			<entry>
 				<title>ಅಂಚೆಮನೆಯ ಅರೆಕಲ್ಲಿನಲಿ</title>
 				<feature>ಕವನ</feature>
@@ -3795,7 +3795,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="062" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1935" maasa="" samvatsara="ಭಾವ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="062" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1935" maasa="" samvatsara="ಭಾವ">
 			<entry>
 				<title>ಕವಿ</title>
 				<feature>ಕವನ</feature>
@@ -3897,7 +3897,7 @@
 		</part>
 	</volume>
 	<volume vnum="017">
-		<part pnum="01" snum="063" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1935" maasa="" samvatsara="ಯುವ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="063" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1935" maasa="" samvatsara="ಯುವ">
 			<entry>
 				<title>ಕ್ರಾಂತಿಕಾಳಿ</title>
 				<feature>ಕವನ</feature>
@@ -4005,7 +4005,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="064" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1935" maasa="" samvatsara="ಯುವ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="064" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1935" maasa="" samvatsara="ಯುವ">
 			<entry>
 				<title>ಕವಿಶೈಲದಲ್ಲಿ ಸಂಧ್ಯೆ</title>
 				<feature>ಕವನ</feature>
@@ -4105,7 +4105,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="065" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1936" maasa="" samvatsara="ಯುವ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="065" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1936" maasa="" samvatsara="ಯುವ">
 			<entry>
 				<title>ಶರಾವತಿ ಜಲಪಾತ ನಿರ್ಘೋಷ</title>
 				<feature>ಕವನ</feature>
@@ -4182,28 +4182,22 @@
 				<title>ಕಾವ್ಯಾವಲೋಕನ </title>
 				<feature></feature>
 				<page>0089-0095</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಗ್ರಂಥಸ್ವೀಕಾರ </title>
 				<feature></feature>
 				<page>0096-0098</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ವಸ್ತುಕೋಶ </title>
 				<feature></feature>
 				<page>0099-0111</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="066" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1936" maasa="" samvatsara="ಯುವ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="066" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1936" maasa="" samvatsara="ಯುವ">
 			<entry>
 				<title>ನವೋದಯಂ</title>
 				<feature>ಕವನ</feature>
@@ -4288,9 +4282,7 @@
 				<title>ಕಾವ್ಯಾವಲೋಕನ </title>
 				<feature></feature>
 				<page>0070-0077</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಗ್ರಂಥ ಸ್ವೀಕಾರ </title>
@@ -4307,7 +4299,7 @@
 		</part>
 	</volume>
 	<volume vnum="018">
-		<part pnum="01" snum="067" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1936" maasa="" samvatsara="ಧಾತೃ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="067" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1936" maasa="" samvatsara="ಧಾತೃ">
 				<entry>
 				<title>ಕೃತಿ</title>
 				<feature>ಕವನ</feature>
@@ -4392,36 +4384,28 @@
 				<title>ಕಾವ್ಯಾವಲೋಕನ </title>
 				<feature></feature>
 				<page>0099-0111</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಸಾದರ ಸ್ವೀಕಾರ </title>
 				<feature></feature>
 				<page>0112-0114</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ವಸ್ತುಕೋಶ </title>
 				<feature></feature>
 				<page>0115-0124</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಸಂಪಾದಕೀಯ </title>
 				<feature></feature>
 				<page>0125-0132</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="068" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1936" maasa="" samvatsara="ಧಾತೃ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="068" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1936" maasa="" samvatsara="ಧಾತೃ">
 			<entry>
 				<title>ಒಂದಿರುಳು</title>
 				<feature>ಕವನ</feature>
@@ -4511,7 +4495,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="069" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1937" maasa="" samvatsara="ಧಾತೃ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="069" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1937" maasa="" samvatsara="ಧಾತೃ">
 			<entry>
 				<title>ಕನ್ನಡತಾಯನೋಟ</title>
 				<feature>ಕವನ</feature>
@@ -4532,9 +4516,7 @@
 				<title>ರಂಗಯ್ಯನ  ವಚನಗಳು </title>
 				<feature></feature>
 				<page>0037-0045</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಬನ್ನಿ ಬನ್ನಿ ಕನಸುಗಳೇ</title>
@@ -4601,7 +4583,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="070" month="ಕಾಮನ ಸಂಚಿಕೆ " year="1937" maasa="" samvatsara="ಧಾತೃ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="070" month="ಕಾಮನ ಸಂಚಿಕೆ " year="1937" maasa="" samvatsara="ಧಾತೃ">
 			<entry>
 				<title>ಹೋಗುವೆನು ನಾ</title>
 				<feature>ಕವನ</feature>
@@ -4719,7 +4701,7 @@
 		</part>
 	</volume>
 	<volume vnum="019">
-		<part pnum="01" snum="71" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1937" maasa="" samvatsara="ಈಶ್ವರ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="71" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1937" maasa="" samvatsara="ಈಶ್ವರ">
 			<entry>
 				<title>ಕೂಸಿನ ಕನಸು</title>
 				<feature>ಕವನ</feature>
@@ -4827,7 +4809,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02-03" snum="072-073" month="ದೀಪಾವಳಿ ಸಂಕ್ರಾಂತಿಗಳ ಸಂಚಿಕೆ" year="1938" maasa="" samvatsara="ಈಶ್ವರ ಸಂವತ್ಸರ">
+		<part pnum="02-03" snum="072-073" month="ದೀಪಾವಳಿ ಸಂಕ್ರಾಂತಿಗಳ ಸಂಚಿಕೆ" year="1938" maasa="" samvatsara="ಈಶ್ವರ">
 			<entry>
 				<title>ಶಿಲ್ಪ</title>
 				<feature>ಕವನ</feature>
@@ -4967,7 +4949,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="074" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1938" maasa="" samvatsara="ಈಶ್ವರ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="074" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1938" maasa="" samvatsara="ಈಶ್ವರ">
 			<entry>
 				<title>ತಿರುವಾರೂರ ಮಹಿಮೆ</title>
 				<feature>ಕವನ</feature>
@@ -5069,7 +5051,7 @@
 		</part>
 	</volume>
 	<volume vnum="020">
-		<part pnum="01" snum="075" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ " year="1938" maasa="" samvatsara="ಬಹುಧಾನ್ಯ  ಸಂವತ್ಸರ">
+		<part pnum="01" snum="075" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ " year="1938" maasa="" samvatsara="ಬಹುಧಾನ್ಯ ">
 			<entry>
 				<title>ದೇವರು ರುಜು ಮಾಡಿದನು</title>
 				<feature>ಕವನ</feature>
@@ -5191,7 +5173,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="076" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1938" maasa="" samvatsara="ಬಹುಧಾನ್ಯ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="076" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1938" maasa="" samvatsara="ಬಹುಧಾನ್ಯ">
 			<entry>
 				<title>ಬಾ ಫಾಲ್ಗುಣ ರವಿದರ್ಶನಕೆ</title>
 				<feature>ಕವನ</feature>
@@ -5266,12 +5248,10 @@
 				<title>ಣತ್ವೋಧ್ಧರಣ ಮಹಾಕ್ಷುದ್ರಕಾವ್ಯ ಪ್ರಪಂಚವು</title>
 				<feature></feature>
 				<page>0131-0148</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="077" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ " year="1939" maasa="" samvatsara="ಬಹುಧಾನ್ಯ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="077" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ " year="1939" maasa="" samvatsara="ಬಹುಧಾನ್ಯ">
 			<entry>
 				<title>ಕಿಟಕಿ-ಕಣ್ಣು</title>
 				<feature>ಕವನ</feature>
@@ -5300,9 +5280,7 @@
 				<title>ರಂಗಯ್ಯನ ವಚನಗಳು</title>
 				<feature></feature>
 				<page>0013-0022</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ವಿಚಿತ್ರವ್ಯಥೆ</title>
@@ -5388,12 +5366,10 @@
 				<title>ದಿವಂಗತ ಪ್ರೊ||  ಟಿ.ಎಸ್ ವೆಂಕಣ್ಣಯ್ಯನವರು </title>
 				<feature></feature>
 				<page>0127-0127</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="078" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1939" maasa="" samvatsara="ಬಹುಧಾನ್ಯ  ಸಂವತ್ಸರ">
+		<part pnum="04" snum="078" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1939" maasa="" samvatsara="ಬಹುಧಾನ್ಯ ">
 			<entry>
 				<title>ವೆಂಕಣ್ಣಯ್ಯನವರಿಗೆ</title>
 				<feature>ಕವನ</feature>
@@ -5510,7 +5486,7 @@
 		</part>
 	</volume>
 	<volume vnum="021">
-		<part pnum="01" snum="079" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1939" maasa="" samvatsara="ಪ್ರಮಾಥಿ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="079" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1939" maasa="" samvatsara="ಪ್ರಮಾಥಿ">
 			<entry>
 				<title>ಬೃಂದಾವನ</title>
 				<feature>ಕವನ</feature>
@@ -5611,28 +5587,22 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0119-0122</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಪ್ರೊ || ಟಿ. ಎಸ್ ವೆಂಕಣ್ಣಯ್ಯನವರ ಸ್ಮಾರಕ ನಿಧಿ</title>
 				<feature></feature>
 				<page>0123-0125</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಪ್ರಕಟನೆಗಳು</title>
 				<feature></feature>
 				<page>0126-0129</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="080" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1939" maasa="" samvatsara="ಪ್ರಮಾಥಿ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="080" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1939" maasa="" samvatsara="ಪ್ರಮಾಥಿ">
 			<entry>
 				<title>‌ಕನ್ನಡ ತಾಯ್ಗೆ</title>
 				<feature>ಕವನ</feature>
@@ -5741,9 +5711,7 @@
 				<title>ವಿದ್ಯಾರ್ಥಿ ಸಂಘದಲ್ಲಿ ಜೀವನ ಮತ್ತು ಸಾಹಿತ್ಯ </title>
 				<feature></feature>
 				<page>0097-0102</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಕಾವ್ಯಾವಲೋಕನ </title>
@@ -5773,12 +5741,10 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0129-0131</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="081" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ " year="1940" maasa="" samvatsara="ಪ್ರಮಾಥಿ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="081" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ " year="1940" maasa="" samvatsara="ಪ್ರಮಾಥಿ">
 			<entry>
 				<title>ಆನಂದರೂಪಮಮೃತಂ ರಸಂ</title>
 				<feature>ಕವನ</feature>
@@ -5863,12 +5829,10 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0153-0156</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="082" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1940" maasa="" samvatsara="ಪ್ರಮಾಥಿ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="082" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1940" maasa="" samvatsara="ಪ್ರಮಾಥಿ">
 			<entry>
 				<title>ಬುಗ್ಗೆ</title>
 				<feature>ಕವನ</feature>
@@ -5897,9 +5861,7 @@
 				<title></title>
 				<feature>ಕವನ</feature>
 				<page>0018-0018</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಅಹಲ್ಯೆ-ಮಧ್ಯಮಾಂಕ</title>
@@ -6009,22 +5971,18 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0157-0159</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಪ್ರೊ || ಟಿ. ಎಸ್ ವೆಂಕಣ್ಣಯ್ಯನವರ ಸ್ಮಾರಕ ನಿಧಿ</title>
 				<feature></feature>
 				<page>0160-0160</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
 	</volume>
 	<volume vnum="022">
-		<part pnum="01" snum="083" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1940" maasa="" samvatsara="ವಿಕ್ರಮ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="083" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1940" maasa="" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ಕನಸಾದ ನನಸು</title>
 				<feature>ಕವಿತೆ</feature>
@@ -6156,7 +6114,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="084" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1940" maasa="" samvatsara="ವಿಕ್ರಮ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="084" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1940" maasa="" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ತನ್ನ ಕಾವ್ಯಕೆ ತಾನೆ ಮಣಿಯುವಂತೆ</title>
 				<feature>ಕವನ</feature>
@@ -6257,12 +6215,10 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0168-0170</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="085" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ" year="1941" maasa="" samvatsara="ವಿಕ್ರಮ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="085" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ" year="1941" maasa="" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ಅಶೋಕನ ವಿಜಯ</title>
 				<feature>ಕವಿತೆ</feature>
@@ -6384,7 +6340,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="086" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1941" maasa="" samvatsara="ವಿಕ್ರಮ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="086" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1941" maasa="" samvatsara="ವಿಕ್ರಮ">
 			<entry>
 				<title>ಕೀರ್ತಿಶನಿ</title>
 				<feature>ಕವನ</feature>
@@ -6525,7 +6481,7 @@
 		</part>
 	</volume>
 	<volume vnum="023">
-		<part pnum="01" snum="087" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1941" maasa="" samvatsara="ವೃಷ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="087" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1941" maasa="" samvatsara="ವೃಷ">
 			<entry>
 				<title>ಮಳೆಬಿಲ್ಲು</title>
 				<feature>ಕವನ</feature>
@@ -6623,7 +6579,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="088" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1941" maasa="" samvatsara="ವೃಷ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="088" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1941" maasa="" samvatsara="ವೃಷ">
 			<entry>
 				<title>ಪಂಪನಲ್ಲಿ ಭವ್ಯತೆ </title>
 				<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -6729,7 +6685,7 @@
 				</allauthors>
 			</entry>	
 		</part>
-		<part pnum="03" snum="089" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1942" maasa="" samvatsara="ವೃಷ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="089" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1942" maasa="" samvatsara="ವೃಷ">
 			<entry>
 				<title>ಒಳತೋಟಿ</title>
 				<feature>ಕವನ</feature>
@@ -6911,7 +6867,7 @@
 		</part>
 	</volume>
 	<volume vnum="024">
-		<part pnum="01" snum="091" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1942" maasa="" samvatsara="ಚಿತ್ರಭಾನು ಸಂವತ್ಸರ">
+		<part pnum="01" snum="091" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1942" maasa="" samvatsara="ಚಿತ್ರಭಾನು">
 			<entry>
 				<title>ಚಿತ್ರಭಾನು</title>
 				<feature>ಕವನ</feature>
@@ -7082,7 +7038,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="092" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1942" maasa="" samvatsara="ಚಿತ್ರಭಾನು ಸಂವತ್ಸರ">
+		<part pnum="02" snum="092" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1942" maasa="" samvatsara="ಚಿತ್ರಭಾನು">
 			<entry>
 				<title>ಶಿಲಾಭೇರಿ</title>
 				<feature>ಕವನ</feature>
@@ -7197,7 +7153,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="093" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ" year="1943" maasa="" samvatsara="ಚಿತ್ರಭಾನು ಸಂವತ್ಸರ">
+		<part pnum="03" snum="093" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ" year="1943" maasa="" samvatsara="ಚಿತ್ರಭಾನು">
 			<entry>
 				<title>ರೋರಿಕ್ ಚಿತ್ರಶಾಲಾ ಸ್ಮೃತಿ</title>
 				<feature>ಕವನ</feature>
@@ -7314,12 +7270,10 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0119-0120</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="094" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1943" maasa="" samvatsara="ಚಿತ್ರಭಾನು ಸಂವತ್ಸರ">
+		<part pnum="04" snum="094" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1943" maasa="" samvatsara="ಚಿತ್ರಭಾನು">
 			<entry>
 				<title>ಬಾಲ್ಯ</title>
 				<feature>ಕವನ</feature>
@@ -7427,7 +7381,7 @@
 		</part>
 	</volume>
 	<volume vnum="025">
-		<part pnum="01" snum="095" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1943" maasa="" samvatsara="ಸ್ವಭಾನು ಸಂವತ್ಸರ">
+		<part pnum="01" snum="095" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1943" maasa="" samvatsara="ಸ್ವಭಾನು">
 			<entry>
 				<title>ದೇವ ನೀನೈ ತಂದೆ ಮತ್ತು ಇತರ ಕವಿತೆ</title>
 				<feature>ಕವಿತೆ</feature>
@@ -7568,12 +7522,10 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0155-0158</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="096" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1943" maasa="" samvatsara="ಸ್ವಭಾನು ಸಂವತ್ಸರ">
+		<part pnum="02" snum="096" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1943" maasa="" samvatsara="ಸ್ವಭಾನು">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಕವನ</feature>
@@ -7786,9 +7738,7 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಮಾಲೆ</title>
 				<feature></feature>
 				<page>0172-01</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಒಂದು ಹಿನ್ನುಡಿ </title>
@@ -7799,7 +7749,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="097" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ" year="1944" maasa="" samvatsara="ಸ್ವಭಾನು ಸಂವತ್ಸರ">
+		<part pnum="03" snum="097" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ" year="1944" maasa="" samvatsara="ಸ್ವಭಾನು">
 			<entry>
 				<title>ಹುಟ್ಟಿದ ಹಬ್ಬ</title>
 				<feature>ಕವಿತೆ</feature>
@@ -7986,7 +7936,7 @@
 			</entry>
 			
 		</part>
-		<part pnum="04" snum="098" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1944" maasa="" samvatsara="ಸ್ವಭಾನು ಸಂವತ್ಸರ">
+		<part pnum="04" snum="098" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1944" maasa="" samvatsara="ಸ್ವಭಾನು">
 			<entry>
 				<title>ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಕವನ</feature>
@@ -8140,7 +8090,7 @@
 		</part>
 	</volume>
 	<volume vnum="026">
-		<part pnum="01" snum="099" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1944" maasa="" samvatsara="ತಾರಣ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="099" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1944" maasa="" samvatsara="ತಾರಣ">
 			<entry>
 				<title>ಬೆನಕನ ಚೌತಿ</title>
 				<feature>ಕವನ</feature>
@@ -8274,7 +8224,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="100" month="ದೀಪಾವಳಿ ಸಂಚಿಕೆ" year="1944" maasa="" samvatsara="ತಾರಣ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="100" month="ದೀಪಾವಳಿ ಸಂಚಿಕೆ" year="1944" maasa="" samvatsara="ತಾರಣ">
 			<entry>
 				<title>ಆಶ್ರಯ</title>
 				<feature>ಕವಿತೆ</feature>
@@ -8418,7 +8368,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="101" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1945" maasa="" samvatsara="ತಾರಣ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="101" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1945" maasa="" samvatsara="ತಾರಣ">
 			<entry>
 				<title>ನಿನ್ನಿಚ್ಚೆಯಪ್ಪನ್ನೆಗಂ</title>
 				<feature>ಕವನ</feature>
@@ -8532,7 +8482,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="102" month="ಬೆಳ್ಳಿಯ ಸಂಚಿಕೆ" year="1945" maasa="" samvatsara="ತಾರಣ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="102" month="ಬೆಳ್ಳಿಯ ಸಂಚಿಕೆ" year="1945" maasa="" samvatsara="ತಾರಣ">
 			<entry>
 				<title>‌ಪ್ರಬುದ್ಧ ಕರ್ಣಾಟಕದ ಹುಟ್ಟು ಮತ್ತು ಬೆಳವಣಿಗೆ</title>
 				<feature>ಸಂಕೀರ್ಣ</feature>
@@ -8786,9 +8736,7 @@
 				<title>ರಂಗಯ್ಯನ ವಚನಗಳು &#2014; ಸಾಹಿತ್ಯಪದ್ಧತಿ</title>
 				<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
 				<page>0321-0333</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಸೆಂಕಡರಿ ವಿದ್ಯಾಭ್ಯಾಸದ ಕರಿಕ್ಯುಲಂ ಪುನರ‍್ರಚನೆ</title>
@@ -8847,7 +8795,7 @@
 		</part>
 	</volume>
 	<volume vnum="027">
-		<part pnum="01" snum="103" month="ವಿನಾಯಕ ಸಂಚಿಕೆ" year="1945" maasa="" samvatsara="ಪಾರ್ಥಿವ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="103" month="ವಿನಾಯಕ ಸಂಚಿಕೆ" year="1945" maasa="" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಮನ್ಮನೋಮಂದಿರಕೆ</title>
 				<feature>ಕವನ</feature>
@@ -9009,7 +8957,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="104" month="ದೀಪಾವಳಿ ಸಂಚಿಕೆ" year="1945" maasa="" samvatsara="ಪಾರ್ಥಿವ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="104" month="ದೀಪಾವಳಿ ಸಂಚಿಕೆ" year="1945" maasa="" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>‌ದೇವರ ಹೆಜ್ಜೆ</title>
 				<feature>ಕವನ</feature>
@@ -9115,7 +9063,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="105" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ" year="" maasa="" samvatsara="ಪಾರ್ಥಿವ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="105" month="ಸಂಕ್ರಾತಿಯ ಸಂಚಿಕೆ" year="" maasa="" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಶ್ರೀ ಗುರುಚರಣಕೆ</title>
 				<feature>ಕವನ</feature>
@@ -9261,7 +9209,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="106" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1946" maasa="" samvatsara="ಪಾರ್ಥಿವ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="106" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1946" maasa="" samvatsara="ಪಾರ್ಥಿವ">
 			<entry>
 				<title>ಹಾರೈಸು</title>
 				<feature>ಕವನ</feature>
@@ -9354,9 +9302,7 @@
 				<title>ಕೆಲವು ಅಂಕಿ ಅಂಶಗಳು</title>
 				<feature></feature>
 				<page>0105-0114</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಅಪಶಕುನದ ಹಕ್ಕಿಗಳು</title>
@@ -9415,7 +9361,7 @@
 		</part>
 	</volume>
 	<volume vnum="028">
-		<part pnum="01" snum="107" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1946" maasa="" samvatsara="ವ್ಯಯ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="107" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1946" maasa="" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಅತೀಂದ್ರಿಯ</title>
 				<feature>ಕವನ</feature>
@@ -9532,9 +9478,7 @@
 				<title>ಅಂಕಿ ಅಂಶಗಳು</title>
 				<feature></feature>
 				<page>0087-0096</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಜಪಾನಿನ ನೋ ನಾಟಕ</title>
@@ -9575,7 +9519,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="108" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1946" maasa="" samvatsara="ವ್ಯಯ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="108" month="ದೀಪಾವಳಿಯ ಸಂಚಿಕೆ" year="1946" maasa="" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಇರುಳು ಚಂದ್ರೊದಯ</title>
 				<feature>ಕವನ</feature>
@@ -9676,9 +9620,7 @@
 				<title>ಅಂಕಿ ಅಂಶಗಳು</title>
 				<feature></feature>
 				<page>0057-0067</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಕಾವ್ಯಾವಲೋಕನ </title>
@@ -9713,7 +9655,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="109" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1947" maasa="" samvatsara="ವ್ಯಯ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="109" month="ಸಂಕ್ರಾಂತಿಯ ಸಂಚಿಕೆ" year="1947" maasa="" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಪಾಂಡುಚೇರಿಯ ಪೂರ್ಣಯೋಗಿ</title>
 				<feature>ಕವನ</feature>
@@ -9865,7 +9807,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="110" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1947" maasa="" samvatsara="ವ್ಯಯ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="110" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1947" maasa="" samvatsara="ವ್ಯಯ">
 			<entry>
 				<title>ಶಿವಸುಂದರ</title>
 				<feature>ಕವಿತೆ</feature>
@@ -9990,9 +9932,7 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0162-0166</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 				<entry>
 				<title>ಸಾದರ ಸ್ವೀಕಾರ </title>
@@ -10005,7 +9945,7 @@
 		</part>
 	</volume>
 	<volume vnum="029">
-		<part pnum="01" snum="111" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1947" maasa="" samvatsara="ಸರ್ವಜಿತ್ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="111" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ" year="1947" maasa="" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಚಿತ್-ತಪಸ್</title>
 				<feature>ಕವನ</feature>
@@ -10138,9 +10078,7 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0160-0164</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 				<entry>
 				<title>ಸಾದರ ಸ್ವೀಕಾರ </title>
@@ -10151,7 +10089,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="112" month="" year="1947" maasa="" samvatsara="ಸರ್ವಜಿತ್ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="112" month="" year="1947" maasa="" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಕಲಾವಿದ</title>
 				<feature>ಸಣ್ಣ ಕತೆ - ಕಾವ್ಯ ಕತೆ - ಗದ್ಯ ಚಿತ್ರ -ಪ್ರಬಂಧ ಮತ್ತು ಹರಟೆ</feature>
@@ -10281,7 +10219,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="113" month="ಸಂಕ್ರಾತಿ ಸಂಚಿಕೆ" year="1948" maasa="" samvatsara="ಸರ್ವಜಿತ್ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="113" month="ಸಂಕ್ರಾತಿ ಸಂಚಿಕೆ" year="1948" maasa="" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಮಹಾತ್ಮಾ ಗಾಂಧೀ</title>
 				<feature>ಕವನ</feature>
@@ -10391,9 +10329,7 @@
 				<title>ಶೀ ಎಸ್ ರಾಧಾಕೃಷ್ಣನ್ ಅವರು ಕೇಳಿದ ಮೂರು ಪ್ರಶ್ನೆ ಗಳಿಗೆ ಗಾಂಧೀಜಿಯ ಉತ್ತರ</title>
 				<feature></feature>
 				<page>0072-0072</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 				<entry>
 				<title>ಅಹಿಂಸಾ ದರ್ಶನ </title>
@@ -10407,9 +10343,7 @@
 				<title>ಗಾಂಧೀಜಿಗೆ ಪ್ರಿಯವಾದ ಗೀತಾಶ್ಲೊಕಗಳು</title>
 				<feature></feature>
 				<page>0100-0100</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಸಾರ್ವತ್ರಿಕ ಶಿಕ್ಷಣಕ್ಕೆ ಗಾಂಧೀಜಿಯವರ ಯೋಜನೆ </title>
@@ -10461,7 +10395,7 @@
 			</entry>
 			
 		</part>
-		<part pnum="04" snum="114" month="" year="1948" maasa="" samvatsara="ಸರ್ವಜಿತ್ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="114" month="" year="1948" maasa="" samvatsara="ಸರ್ವಜಿತ್">
 			<entry>
 				<title>ಯಜ್ಞ</title>
 				<feature>ಸಣ್ಣ ಕತೆ - ಕಾವ್ಯ ಕತೆ - ಗದ್ಯ ಚಿತ್ರ -ಪ್ರಬಂಧ ಮತ್ತು ಹರಟೆ</feature>
@@ -10545,7 +10479,7 @@
 		</part>
 	</volume>
 	<volume vnum="030">
-		<part pnum="01" snum="115" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ " year="1948" maasa="" samvatsara="ಸರ್ವಧಾರಿ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="115" month="ವಿನಾಯಕನ ಸಂಚಿಕೆ " year="1948" maasa="" samvatsara="ಸರ್ವಧಾರಿ">
 			<entry>
 				<title>ಚಾಮುಂಡಿ</title>
 				<feature>ಕವನ</feature>
@@ -10566,9 +10500,7 @@
 				<title>ದೇಶ ಭಾಶೆಗಳು  ಮತ್ತು ಹಿಂದುಸ್ಥಾನಿಯ  ಸಮಸ್ಯೆ </title>
 				<feature></feature>
 				<page>0003-0004</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಶ್ರೀರಾಮಾನುಜ</title>
@@ -10638,9 +10570,7 @@
 				<title>ಹಿರಿತನವದೆಲ್ಲಿ </title>
 				<feature>ಕವಿತೆ </feature>
 				<page>0061-0064</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ನೆರಳು -ನಡುನೆರಳು -ಪಡಿನೆರಳು </title>
@@ -10683,7 +10613,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="116" month="ದೀಪಾವಳಿ ಸಂಚಿಕೆ" year="1948" maasa="" samvatsara="ಸರ್ವಧಾರಿ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="116" month="ದೀಪಾವಳಿ ಸಂಚಿಕೆ" year="1948" maasa="" samvatsara="ಸರ್ವಧಾರಿ">
 			<entry>
 				<title>ಸ್ವಾತಂತ್ರ್ಯ ಲಕ್ಷ್ಮಿಗೆ</title>
 				<feature>ಕವನ</feature>
@@ -10816,9 +10746,7 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0145-0147</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಸಾದರ ಸ್ವೀಕಾರ </title>
@@ -10829,7 +10757,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="117" month="ಸಂಕ್ರಾತಿ ಸಂಚಿಕೆ" year="1949" maasa="" samvatsara="ಸರ್ವಧಾರಿ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="117" month="ಸಂಕ್ರಾತಿ ಸಂಚಿಕೆ" year="1949" maasa="" samvatsara="ಸರ್ವಧಾರಿ">
 			<entry>
 				<title>ಕುೞಳ್</title>
 				<feature>ಕವಿತೆ </feature>
@@ -10943,7 +10871,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="118" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1950" maasa="" samvatsara="ಸರ್ವಧಾರಿ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="118" month="ಕಾಮನ ಸಂಚಿಕೆ" year="1950" maasa="" samvatsara="ಸರ್ವಧಾರಿ">
 			<entry>
 				<title>ಶ್ರದ್ಧೆಗಿಹುದೆ ಅಶಿವಭೀತಿ</title>
 				<feature>ಕವನ</feature>
@@ -11084,14 +11012,12 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0135-0136</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
 	</volume>
 	<volume vnum="031">
-		<part pnum="01" snum="119" month="ಗಣೇಶನ ಸಂಚಿಕೆ " year="1949" maasa="" samvatsara="ವಿರೋಧಿ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="119" month="ಗಣೇಶನ ಸಂಚಿಕೆ " year="1949" maasa="" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>(ಪುಟ್ಟಪ್ಪ ಕೆ. ವಿ) ಕಿಶೋರ ಚಂದ್ರವಾಣಿ ಅಖಂಡ ಕರ್ಣಾಟಕ</title>
 				<feature>ಕವನ</feature>
@@ -11197,7 +11123,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="120" month="ದೀಪಾವಳಿ ಸಂಚಿಕೆ" year="1949" maasa="" samvatsara="ವಿರೋಧಿ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="120" month="ದೀಪಾವಳಿ ಸಂಚಿಕೆ" year="1949" maasa="" samvatsara="ವಿರೋಧಿ">
 			<entry>
 				<title>ಕುಮಾರಸಂಭವ</title>
 				<feature>ಕವನ</feature>
@@ -11396,9 +11322,7 @@
 				<title>ಮಾನವನ ಹಕ್ಕು ಬಾಧ್ಯತೆಗಳ ಪ್ರಸಿಧ್ಧ ಪತ್ರಿಕೆ </title>
 				<feature></feature>
 				<page>0143-0150</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಮಲ್ಲಿಕಾರ್ಜುನ ಮತ್ತು ಅವನ ಮಗನಾದ ಕೇಶಿರಾಜ ಇವರು ಜೈನರೇ : ಸ್ಮಾರ್ತ ಬ್ರಾಹ್ಮಣರಲ್ಲ</title>
@@ -11531,7 +11455,7 @@
 		</part>
 	</volume>
 	<volume vnum="032">
-		<part pnum="01" snum="123" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1950" maasa="" samvatsara="ವಿಕೃತಿ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="123" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1950" maasa="" samvatsara="ವಿಕೃತಿ">
 			<entry>
 				<title>'ಶ್ರೀ ಸಾಮಾನ್ಯರ ' ದೀಕ್ಷಾಗೀತೆ </title>
 				<feature>ಕವನ</feature>
@@ -11605,7 +11529,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="124" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1950" maasa="" samvatsara="ವಿಕೃತಿ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="124" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1950" maasa="" samvatsara="ವಿಕೃತಿ">
 			<entry>
 				<title>ಮನೆಮನೆಯ ತಪಸ್ವಿನಿಗೆ</title>
 				<feature>ಕವನ</feature>
@@ -11626,9 +11550,7 @@
 				<title>ಕವಿಕೃತಿಯ ಮೇಲೆ ಬ್ರಹ್ಮ ಮುದ್ರೆ </title>
 				<feature></feature>
 				<page>0016-0016</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಕನ್ನಡ ಧ್ವನ್ಯಾಲೋಕ</title>
@@ -11671,7 +11593,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="125" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1950" maasa="" samvatsara="ವಿಕೃತಿ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="125" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1950" maasa="" samvatsara="ವಿಕೃತಿ">
 			<entry>
 				<title>ಕುಮಾರಸಂಭವ</title>
 				<feature>ಕವನ</feature>
@@ -11748,12 +11670,10 @@
 				<title>ಪ್ರಾಚ್ಯಲೇಖನಾವಳಿ</title>
 				<feature></feature>
 				<page>0132-0133</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04" snum="126" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1951" maasa="" samvatsara="ವಿಕೃತಿ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="126" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1951" maasa="" samvatsara="ವಿಕೃತಿ">
 			<entry>
 				<title>ವಿಶ್ವವಿದ್ಯಾನಿಲಯೆ ಭಗವತಿ ಶ್ರೀ ಸರಸ್ವತಿಗೆ</title>
 				<feature>ಕವನ</feature>
@@ -11837,7 +11757,7 @@
 		</part>
 	</volume>
 	<volume vnum="033">
-		<part pnum="01" snum="127" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1951" maasa="" samvatsara="ಖರ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="127" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1951" maasa="" samvatsara="ಖರ">
 			<entry>
 				<title>ಅಪತ್ರಿಕಾ ವಾರ್ತೆ </title>
 				<feature></feature>
@@ -11919,7 +11839,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="128" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1951" maasa="" samvatsara="ಖರ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="128" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1951" maasa="" samvatsara="ಖರ">
 			<entry>
 				<title>ವ್ಯಾಸಂಗದ  ಹವ್ಯಾಸ</title>
 				<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -12009,7 +11929,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="129" month=" ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1952" maasa="" samvatsara="ಖರ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="129" month=" ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1952" maasa="" samvatsara="ಖರ">
 			<entry>
 				<title>ಶ್ರೀ ಗೋಮಟ ಮಹಾ ಮಸ್ತಕಾಭಷೇಕ ಪ್ರಗಧಂ</title>
 				<feature>ಕವನ</feature>
@@ -12099,7 +12019,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="130" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1952" maasa="" samvatsara="ಖರ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="130" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1952" maasa="" samvatsara="ಖರ">
 			<entry>
 				<title>ಪಕ್ಷಿ</title>
 				<feature>ಕವನ</feature>
@@ -12191,7 +12111,7 @@
 		</part>
 	</volume>
 	<volume vnum="034">
-		<part pnum="01" snum="131" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1952" maasa="" samvatsara="ನಂದನ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="131" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1952" maasa="" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಚಿರಂತನದಾಹ</title>
 				<feature>ಕವನ</feature>
@@ -12297,7 +12217,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="132" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1952" maasa="" samvatsara="ನಂದನ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="132" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1952" maasa="" samvatsara="ನಂದನ">
 			<entry>
 				<title>ನಾ ಜಂಗಮ ದೇವಸ್ಥಾನ </title>
 				<feature></feature>
@@ -12395,7 +12315,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="133" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1953" maasa="" samvatsara="ನಂದನ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="133" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1953" maasa="" samvatsara="ನಂದನ">
 			<entry>
 				<title>ನಾ ಜಂಗಮದೇವಸ್ಥಾನ</title>
 				<feature>ಕವನ</feature>
@@ -12461,7 +12381,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="134" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1953" maasa="" samvatsara="ನಂದನ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="134" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1953" maasa="" samvatsara="ನಂದನ">
 			<entry>
 				<title>ಕನ್ನಡ ಅಮರುಶತಕ</title>
 				<feature>ಕವನ</feature>
@@ -12513,7 +12433,7 @@
 		</part>
 	</volume>
 	<volume vnum="035">
-		<part pnum="01" snum="135" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1953" maasa="" samvatsara="ವಿಜಯ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="135" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1953" maasa="" samvatsara="ವಿಜಯ">
 			<entry>
 				<title>ಅದ್ಭುತರಾಮಾಯಣ ಅಥವಾ ವಾಲ್ಮೀಕಿಗೊಂದೆಚ್ಚರಿಕೆ</title>
 				<feature>ಕವನ</feature>
@@ -12667,7 +12587,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="136" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1953" maasa="" samvatsara="ವಿಜಯ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="136" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1953" maasa="" samvatsara="ವಿಜಯ">
 			<entry>
 				<title>ನವಿಲುಕಲ್ಲಿನಲ್ಲಿ ಮತ್ತೊಮ್ಮೆ</title>
 				<feature>ಕವನ</feature>
@@ -12917,7 +12837,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="138" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1954" maasa="" samvatsara="ವಿಜಯ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="138" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1954" maasa="" samvatsara="ವಿಜಯ">
 			<entry>
 				<title>ಪತ್ರಿಕಾ ಗವಾಕ್ಷ</title>
 				<feature>ಕವನ</feature>
@@ -13481,7 +13401,7 @@
 		</part>
 	</volume>
 	<volume vnum="037">
-		<part pnum="01" snum="143" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1955" maasa="" samvatsara="ಮನ್ಮಥ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="143" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1955" maasa="" samvatsara="ಮನ್ಮಥ">
 			<entry>
 				<title>ಯಂಶೈವಾಃ</title>
 				<feature>ಕವನ</feature>
@@ -13678,9 +13598,7 @@
 				<title>ಶ್ರೀ ಕುವೆಂಪು ಅಭಿನಂದನ ಸಮಾರಂಭ</title>
 				<feature></feature>
 				<page>0235-0272</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಸಾದರ ಸ್ವೀಕಾರ </title>
@@ -13691,7 +13609,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="144" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1955" maasa="" samvatsara="ಮನ್ಮಥ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="144" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1955" maasa="" samvatsara="ಮನ್ಮಥ">
 			<entry>
 				<title>ತ್ರಯೀಸಾಂಖ್ಯಂ</title>
 				<feature>ಕವನ</feature>
@@ -13909,7 +13827,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="145" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1956" maasa="" samvatsara="ಮನ್ಮಥ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="145" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1956" maasa="" samvatsara="ಮನ್ಮಥ">
 			<entry>
 				<title>ವಿಜಯನಗರದ ಸಾಹಿತ್ಯ ಸಾಮ್ರಾಜ್ಯ</title>
 				<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -14039,7 +13957,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="146" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1956" maasa="" samvatsara="ಮನ್ಮಥ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="146" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1956" maasa="" samvatsara="ಮನ್ಮಥ">
 			<entry>
 				<title>ಕರೀಹುಡುಗಿ</title>
 				<feature>ಸಣ್ಣ ಕತೆ - ಕಾವ್ಯ ಕತೆ - ಗದ್ಯ ಚಿತ್ರ -ಪ್ರಬಂಧ ಮತ್ತು ಹರಟೆ</feature>
@@ -14195,7 +14113,7 @@
 		</part>
 	</volume>
 	<volume vnum="038">
-		<part pnum="01" snum="147" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1956" maasa="" samvatsara="ದುರ್ಮುಖಿ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="147" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1956" maasa="" samvatsara="ದುರ್ಮುಖಿ">
 			<entry>
 				<title>ಸೋಹಮಸ್ಮಿ</title>
 				<feature>ಕವನ</feature>
@@ -14413,7 +14331,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="148" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1956" maasa="" samvatsara="ದುರ್ಮುಖಿ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="148" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1956" maasa="" samvatsara="ದುರ್ಮುಖಿ">
 			<entry>
 				<title>ಉಷಃಕಾಂತೆ</title>
 				<feature>ಕವನ</feature>
@@ -14601,7 +14519,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="149" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1957" maasa="" samvatsara="ದುರ್ಮುಖಿ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="149" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1957" maasa="" samvatsara="ದುರ್ಮುಖಿ">
 			<entry>
 				<title>ಪ್ರೇತವೃಕ್ಷ</title>
 				<feature>ಕವನ</feature>
@@ -14763,7 +14681,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="150" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1957" maasa="" samvatsara="ದುರ್ಮುಖಿ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="150" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1957" maasa="" samvatsara="ದುರ್ಮುಖಿ">
 			<entry>
 				<title>ಅನಿಕೇತನ</title>
 				<feature>ಕವನ</feature>
@@ -14943,7 +14861,7 @@
 		</part>
 	</volume>
 	<volume vnum="039">
-		<part pnum="01" snum="151" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1957" maasa="" samvatsara="ಹೇವಿಳಂಬಿ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="151" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1957" maasa="" samvatsara="ಹೇವಿಳಂಬಿ">
 			<entry>
 				<title>ಕರ್ಣಾಟಕ ರಾಜ್ಯೋದಯ ಶ್ರೀಗೀತೆ</title>
 				<feature>ಕವನ</feature>
@@ -15012,9 +14930,7 @@
 				<title>ಅಮೃತವಾಣಿ</title>
 				<feature></feature>
 				<page>0154-0154</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಸೆರೆಯಾಳು</title>
@@ -15049,7 +14965,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="152" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1957" maasa="" samvatsara="ಹೇವಿಳಂಬಿ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="152" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1957" maasa="" samvatsara="ಹೇವಿಳಂಬಿ">
 			<entry>
 				<title>ಆಟ ಆಡುವ ಮಕ್ಕಳನ್ನು ನೋಡಿ</title>
 				<feature>ಕವಿತೆ</feature>
@@ -15227,7 +15143,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="153" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ಹೇವಿಳಂಬಿ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="153" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ಹೇವಿಳಂಬಿ">
 			<entry>
 				<title>ಅಧಿ ದೇವತಾ ಅವಿರ್ಭೂತಿ </title>
 				<feature>ಕವನ</feature>
@@ -15413,14 +15329,12 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04a" snum="154a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ಹೇವಿಳಂಬಿ ಸಂವತ್ಸರ">
+		<part pnum="04a" snum="154a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ಹೇವಿಳಂಬಿ">
 			<entry>
 				<title>ವೇದವಾಣಿ </title>
 				<feature></feature>
 				<page>0001-0002</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಕುಲಪತಿಗೆ ಹಕ್ಕಿಯ ಹರಕೆ</title>
@@ -15535,7 +15449,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04b" snum="154b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ಹೇವಿಳಂಬಿ ಸಂವತ್ಸರ">
+		<part pnum="04b" snum="154b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ಹೇವಿಳಂಬಿ">
 			<entry>
 				<title>ಬ್ರಹ್ಮಾಂಡದ ಬುಗುರಿಗಳು </title>
 				<feature></feature>
@@ -15635,7 +15549,7 @@
 		</part>
 	</volume>
 	<volume vnum="040">
-		<part pnum="01" snum="155" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ವಿಳಂಬಿ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="155" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ವಿಳಂಬಿ">
 			<entry>
 				<title>ಅಗ್ನಿಶೀತಕಿರಣ</title>
 				<feature>ಕವನ</feature>
@@ -15823,7 +15737,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02a" snum="156a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ವಿಳಂಬಿ ಸಂವತ್ಸರ">
+		<part pnum="02a" snum="156a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ವಿಳಂಬಿ">
 			<entry>
 				<title>ಪುಷ್ಪ ಭಗವಾನ್</title>
 				<feature>ಕವನ</feature>
@@ -15989,7 +15903,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02b" snum="156b" month="ಆಷಾಡ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ವಿಳಂಬಿ ಸಂವತ್ಸರ">
+		<part pnum="02b" snum="156b" month="ಆಷಾಡ ಸಂಚಿಕೆ" year="1958" maasa="" samvatsara="ವಿಳಂಬಿ">
 			<entry>
 				<title>ಟೈಕೊ ಬ್ರಾಹೆ</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -16290,9 +16204,7 @@
 				<title>ಇತಿಹಾಸದ ಪುನರಾವೃತ್ತಿ</title>
 				<feature></feature>
 				<page>0170-0170</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಮಾ</title>
@@ -16484,7 +16396,7 @@
 		</part>
 	</volume>
 	<volume vnum="041">
-		<part pnum="01" snum="159" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1959" maasa="" samvatsara="ವಿಕಾರಿ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="159" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1959" maasa="" samvatsara="ವಿಕಾರಿ">
 			<entry>
 				<title>ನಮಿಸುತೊಮ್ಮೆ</title>
 				<feature>ಕವನ</feature>
@@ -16601,7 +16513,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02" snum="160" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1959" maasa="" samvatsara="ವಿಕಾರಿ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="160" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1959" maasa="" samvatsara="ವಿಕಾರಿ">
 			<entry>
 				<title>ವೈದಿಕವಾಙ್ಮಯ</title>
 				<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -16731,7 +16643,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="161" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1959" maasa="" samvatsara="ವಿಕಾರಿ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="161" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1959" maasa="" samvatsara="ವಿಕಾರಿ">
 			<entry>
 				<title>ಶ್ರೀರಾಮನವಮಿ</title>
 				<feature>ಕವನ</feature>
@@ -16885,7 +16797,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="162" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1960" maasa="" samvatsara="ವಿಕಾರಿ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="162" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1960" maasa="" samvatsara="ವಿಕಾರಿ">
 			<entry>
 				<title>ಯಕ್ಷಗಾನ </title>
 				<feature>ಕವಿತೆ</feature>
@@ -17161,7 +17073,7 @@
 		</part>
 	</volume>
 	<volume vnum="042">
-		<part pnum="01" snum="163" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1960" maasa="" samvatsara="ಶಾರ್ವರಿ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="163" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1960" maasa="" samvatsara="ಶಾರ್ವರಿ">
 			<entry>
 				<title>ನಿವೃತ್ತಿ ಮುಕ್ತನ ಅಭೀಪ್ಸೆ</title>
 				<feature>ಕವನ</feature>
@@ -17351,7 +17263,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02a" snum="164a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1960" maasa="" samvatsara="ಶಾರ್ವರಿ ಸಂವತ್ಸರ">
+		<part pnum="02a" snum="164a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1960" maasa="" samvatsara="ಶಾರ್ವರಿ">
 			<entry>
 				<title>ಇದು ಕಲಿಯ ಯುಗವೆ?</title>
 				<feature>ಕವನ</feature>
@@ -17547,7 +17459,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02b" snum="164b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1960" maasa="" samvatsara="ಶಾರ್ವರಿ ಸಂವತ್ಸರ">
+		<part pnum="02b" snum="164b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1960" maasa="" samvatsara="ಶಾರ್ವರಿ">
 			<entry>
 				<title>ಪ್ರಾಯೋಗಿಕ ಮನಶ್ಯಾಸ್ತ್ರವೆಂದರೇನು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -17584,9 +17496,7 @@
 				<title>ಕೃತಕ ಕೋಲ್ಮಿಂಚುಗಳನ್ನು ಸೃಜಿಸುವುದೇಕೆ 'ಸೋವಿಯತ್ ' ದೇಶದಿಂದ</title>
 				<feature></feature>
 				<page>0058-0058</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಚೋಸೆಫ್ ಲಿಸ್ಟರ್</title>
@@ -17608,9 +17518,7 @@
 				<title>ಅಧುನಿಕ ವಿಶ್ವ -ಸಾಬೂನಿನ ಗುಳ್ಳೆ </title>
 				<feature></feature>
 				<page>0084-0084</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ನಮ್ಮ ಆಹಾರ</title>
@@ -17621,7 +17529,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="165" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1960" maasa="" samvatsara="ಶಾರ್ವರಿ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="165" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1960" maasa="" samvatsara="ಶಾರ್ವರಿ">
 			<entry>
 				<title>ನಾಗಮಂಗಲದ ನಾಟ್ಯ ಸರಸ್ವತಿಗೆ</title>
 				<feature>ಕವನ</feature>
@@ -17762,9 +17670,7 @@
 				<title>ಕನ್ನಡದಲ್ಲಿ ಕಾಳಿದಾಸನ ಕೃತಿಗಳು</title>
 				<feature></feature>
 				<page>0137-0139</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ನೇಹಿಗರೇ</title>
@@ -17786,9 +17692,7 @@
 				<title>ಕವಿ ಪ್ರಾರ್ಥನೆ </title>
 				<feature></feature>
 				<page>0162-0162</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಶಾಕುಂತಲ ನಾಟಕದಲ್ಲಿ ಉಂಗುರದ ಪ್ರತಿಮೆ</title>
@@ -17831,7 +17735,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04a" snum="166a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಶಾರ್ವರಿ ಸಂವತ್ಸರ">
+		<part pnum="04a" snum="166a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಶಾರ್ವರಿ">
 			<entry>
 				<title>ಸಪ್ತರ್ಷಿಮಂಡಲ</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -17921,7 +17825,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04b" snum="166b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಶಾರ್ವರಿ ಸಂವತ್ಸರ">
+		<part pnum="04b" snum="166b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಶಾರ್ವರಿ">
 			<entry>
 				<title>ಜರ್ಬರಾ</title>
 				<feature>ಕವಿತೆ</feature>
@@ -17983,9 +17887,7 @@
 				<title>ಬಸವಣ್ಣನವರ ಕೆಲವು ಶಬ್ದ ಚಿತ್ರಗಳು</title>
 				<feature>ಪ್ರಬಂಧ</feature>
 				<page>0091-0098</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಬೆನ್ನಟ್ಟಿ ಬಂದ ಬಿರುಗಾಳಿ</title>
@@ -18074,7 +17976,7 @@
 		</part>
 	</volume>
 	<volume vnum="043">
-		<part pnum="01" snum="167" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಪ್ಲವ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="167" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಪ್ಲವ">
 			<entry>
 				<title>ನಮಸ್ಕಾರ</title>
 				<feature>ಕವನ</feature>
@@ -18329,7 +18231,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02a" snum="168a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಪ್ಲವ ಸಂವತ್ಸರ">
+		<part pnum="02a" snum="168a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಪ್ಲವ">
 			<entry>
 				<title>ರಾಣಿಯ ಮೊಕದ್ದಮೆ</title>
 				<feature>ಕವನ</feature>
@@ -18441,7 +18343,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02b" snum="168b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಪ್ಲವ ಸಂವತ್ಸರ">
+		<part pnum="02b" snum="168b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಪ್ಲವ">
 			<entry>
 				<title>ಏಷ್ಯ ಹಾಗೂ ದೂರ ಪ್ರಾಚ್ಯ ಆರ್ಥಿಕ ಮಂಡಳಿ</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -18483,7 +18385,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="169" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಪ್ಲವ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="169" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1961" maasa="" samvatsara="ಪ್ಲವ">
 			<entry>
 				<title>ಬರಿ ಕುವೆಂಪು ಅಥವಾ ಹೆಸರಿಲ್ಲದ ತಂಪು</title>
 				<feature>ಕವನ</feature>
@@ -18629,7 +18531,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04a" snum="170a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಪ್ಲವ ಸಂವತ್ಸರ">
+		<part pnum="04a" snum="170a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಪ್ಲವ">
 			<entry>
 				<title>ಅನಧಿಕೃತ ನಾಮಕರಣೋತ್ಸವ</title>
 				<feature>ಕವನ</feature>
@@ -18777,7 +18679,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04b" snum="170b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಪ್ಲವ ಸಂವತ್ಸರ">
+		<part pnum="04b" snum="170b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಪ್ಲವ">
 			<entry>
 				<title>ಹಿಂದೂದೇಶದಲ್ಲಿ ಗಣಿತಶಾಸ್ತ್ರದ ಬೆಳವಣಿಗೆ</title>
 				<feature></feature>
@@ -18845,7 +18747,7 @@
 		</part>
 	</volume>
 	<volume vnum="044">
-		<part pnum="01" snum="171" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಶುಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="01" snum="171" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಶುಭಕೃತು">
 			<entry>
 				<title>ಗಣೇಶ-ಕಾರ್ತಿಕೇಯ</title>
 				<feature>ಕವನ</feature>
@@ -18977,7 +18879,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02a" snum="172a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಶುಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="02a" snum="172a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಶುಭಕೃತು">
 			<entry>
 				<title>ಸಸ್ಯದ ಆಹಾರಗಳು </title>
 				<feature></feature>
@@ -19043,7 +18945,7 @@
 				</allauthors>
 			</entry>	
 		</part>
-		<part pnum="02b" snum="172b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಶುಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="02b" snum="172b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಶುಭಕೃತು">
 			<entry>
 				<title>ಕವಿ ರವೀಂದ್ರರನ್ನು ಕುರಿತು</title>
 				<feature>ಕವಿತೆ</feature>
@@ -19189,7 +19091,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="03" snum="173" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಶುಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="03" snum="173" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1962" maasa="" samvatsara="ಶುಭಕೃತು">
 			<entry>
 				<title>ಭಾವೈಕ್ಯತೆ</title>
 				<feature>ಕವನ</feature>
@@ -19343,7 +19245,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04a" snum="174a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶುಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="04a" snum="174a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶುಭಕೃತು">
 			<entry>
 				<title>ಶ್ರೀ ವಿವೇಕಾನಂದ ಸಂಭೂತಿ</title>
 				<feature>ಕವಿತೆ</feature>
@@ -19483,7 +19385,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04b" snum="174b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶುಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="04b" snum="174b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶುಭಕೃತು">
 			<entry>
 				<title>ಶೀತವಲಯದ ಪ್ರಾಣಿಗಳು</title>
 				<feature></feature>
@@ -19567,7 +19469,7 @@
 		</part>
 	</volume>
 	<volume vnum="045">
-		<part pnum="01" snum="175" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶೋಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="01" snum="175" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶೋಭಕೃತು">
 			<entry>
 				<title>ಕಂದ ಕನ್ನಡನಿವನು ಕೈಬಿಡದಿರಮ್ಮ</title>
 				<feature>ಕವನ</feature>
@@ -19705,7 +19607,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02a" snum="176a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶೋಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="02a" snum="176a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶೋಭಕೃತು">
 			<entry>
 				<title>ವೈಶಾಖ ಶುಕ್ಲ ಪೂರ್ಣಿಮಾ</title>
 				<feature>ಕವನ</feature>
@@ -19811,7 +19713,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02b" snum="176b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶೋಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="02b" snum="176b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶೋಭಕೃತು">
 			<entry>
 				<title>ಯಂತ್ರ ಶಿಲ್ಪಿಯ ಕನಸುಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ </feature>
@@ -19909,7 +19811,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="177" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶೋಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="03" snum="177" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1963" maasa="" samvatsara="ಶೋಭಕೃತು">
 			<entry>
 				<title>ಕಡೆಯೇ ಇಲ್ಲ</title>
 				<feature>ಕವನ</feature>
@@ -20010,9 +19912,7 @@
 				<title>ಕಮ್ಮಟದ ಕಿಡಿಗಳು </title>
 				<feature></feature>
 				<page>0115-0125</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಕಾವ್ಯಾವಲೋಕನ </title>
@@ -20047,7 +19947,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04a" snum="178a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1964" maasa="" samvatsara="ಶೋಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="04a" snum="178a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1964" maasa="" samvatsara="ಶೋಭಕೃತು">
 			<entry>
 				<title>ಅಂಬಾಸ್ತೋತ್ರಮ್</title>
 				<feature>ಕವನ</feature>
@@ -20281,7 +20181,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04b" snum="178b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1964" maasa="" samvatsara="ಶೋಭಕೃತು ಸಂವತ್ಸರ">
+		<part pnum="04b" snum="178b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1964" maasa="" samvatsara="ಶೋಭಕೃತು">
 			<entry>
 				<title>ಯಂತ್ರ ಶಿಲ್ಪಿಯ ಕನಸುಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ </feature>
@@ -20479,7 +20379,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02a" snum="180a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1964" maasa="" samvatsara="ಕ್ರೋಧಿ ಸಂವತ್ಸರ">
+		<part pnum="02a" snum="180a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1964" maasa="" samvatsara="ಕ್ರೋಧಿ">
 			<entry>
 				<title>ಕಾಲ ನಿಲ್ಲುವದಿಲ್ಲ</title>
 				<feature>ಕವನ</feature>
@@ -20641,7 +20541,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02b" snum="180b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1964" maasa="" samvatsara="ಕ್ರೋಧಿ ಸಂವತ್ಸರ">
+		<part pnum="02b" snum="180b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1964" maasa="" samvatsara="ಕ್ರೋಧಿ">
 			<entry>
 				<title>ರಾಜಾಸ್ಥಾನ್‌ ಮರಭೂಮಿಯ ಲವಣತೆ</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -20691,7 +20591,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="181" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1964" maasa="" samvatsara="ಕ್ರೋಧಿ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="181" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1964" maasa="" samvatsara="ಕ್ರೋಧಿ">
 			<entry>
 				<title>ಪಂಪನಲ್ಲಿ ಭಗವದ್ಗೀತೆ</title>
 				<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -20877,7 +20777,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04a" snum="182a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ಕ್ರೋಧಿ ಸಂವತ್ಸರ">
+		<part pnum="04a" snum="182a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ಕ್ರೋಧಿ">
 			<entry>
 				<title>ಪೂರ್ವ ಮೆಂಡೆಲೀಯ ಅನುವಂಶೀಯ ಭಾವನೆಗಳು </title>
 				<feature></feature>
@@ -21032,7 +20932,7 @@
 				</allauthors>
 			</entry>
 			</part>
-		<part pnum="04b" snum="182b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ಕ್ರೋಧಿ ಸಂವತ್ಸರ">
+		<part pnum="04b" snum="182b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ಕ್ರೋಧಿ">
 			<entry>
 				<title>ತೆಂಗು</title>
 				<feature>ಕವನ</feature>
@@ -21053,9 +20953,7 @@
 				<title>'ಹರವಿಲಾಸದಲ್ಲಿ 'ಶ್ರೀನಾಥನು ಹೇಳಿದ ಸಿರಿಯಾಳನ ಕಥೆ </title>
 				<feature>ಪ್ರಬಂಧ </feature>
 				<page>0023-0036</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಇಂದ್ರಚಾಪು</title>
@@ -21236,7 +21134,7 @@
 		</part>
 	</volume>
 	<volume vnum="047">
-		<part pnum="01" snum="183" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ವಿಶ್ವಾವಸು ಸಂವತ್ಸರ">
+		<part pnum="01" snum="183" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ವಿಶ್ವಾವಸು">
 			<entry>
 				<title>ಬೆಳಕ ಹೆಜ್ಜೆಯ ಇರಿಸಿ ಬಂದವರು </title>
 				<feature>ಕವಿತೆ</feature>
@@ -21407,7 +21305,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02a" snum="184a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ವಿಶ್ವಾವಸು ಸಂವತ್ಸರ">
+		<part pnum="02a" snum="184a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ವಿಶ್ವಾವಸು">
 			<entry>
 				<title>ಸಮರ ಸಂಹಿತೆ </title>
 				<feature>ಕವಿತೆ</feature>
@@ -21577,7 +21475,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02b" snum="184b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ವಿಶ್ವಾವಸು ಸಂವತ್ಸರ">
+		<part pnum="02b" snum="184b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ವಿಶ್ವಾವಸು">
 			<entry>
 				<title>ಯಂತ್ರ ಶಿಲ್ಪಿಯ ಕನಸುಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ </feature>
@@ -21667,7 +21565,7 @@
 				</allauthors>
 			</entry>
 			</part>
-		<part pnum="03" snum="185" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ವಿಶ್ವಾವಸು ಸಂವತ್ಸರ">
+		<part pnum="03" snum="185" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1965" maasa="" samvatsara="ವಿಶ್ವಾವಸು">
 			<entry>
 				<title>ನಂಜುಂಡೇಶ್ವರನ ಲಾವಣಿ</title>
 				<feature>ಕವನ</feature>
@@ -21797,7 +21695,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04a" snum="186a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ವಿಶ್ವಾವಸು ಸಂವತ್ಸರ">
+		<part pnum="04a" snum="186a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ವಿಶ್ವಾವಸು">
 			<entry>
 				<title>ಶರಣ ಸತ್ಕಿರಣ</title>
 				<feature>ಕವಿತೆ</feature>
@@ -21919,7 +21817,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04b" snum="186b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ವಿಶ್ವಾವಸು ಸಂವತ್ಸರ">
+		<part pnum="04b" snum="186b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ವಿಶ್ವಾವಸು">
 			<entry>
 				<title>ವೈರಸ್ಸುಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -21987,7 +21885,7 @@
 		</part>
 	</volume>
 	<volume vnum="048">
-		<part pnum="01" snum="187" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ಪರಾಭವ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="187" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ಪರಾಭವ">
 			<entry>
 				<title>ಯಾತ್ರೆ</title>
 				<feature>ಕವನ</feature>
@@ -22141,7 +22039,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02a" snum="188a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ಪರಾಭವ ಸಂವತ್ಸರ">
+		<part pnum="02a" snum="188a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ಪರಾಭವ">
 			<entry>
 				<title>ಪ್ರೇತಕ್ಯೂ</title>
 				<feature>ಕವನ</feature>
@@ -22319,7 +22217,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02b" snum="188b" month=" ಆಷಾಢ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ಪರಾಭವ ಸಂವತ್ಸರ">
+		<part pnum="02b" snum="188b" month=" ಆಷಾಢ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ಪರಾಭವ">
 			<entry>
 				<title>ಖನಿಜ ಮೂಲಾಂಶಗಳು ಮತ್ತು ಸಸ್ಯ ಜೀವನ </title>
 				<feature></feature>
@@ -22378,7 +22276,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="189" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ಪರಾಭವ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="189" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1966" maasa="" samvatsara="ಪರಾಭವ">
 			<entry>
 				<title>ಸ್ವರ್ಣೋತ್ಸವ</title>
 				<feature>ಕವನ</feature>
@@ -22565,7 +22463,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="04a" snum="190a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪರಾಭವ ಸಂವತ್ಸರ">
+		<part pnum="04a" snum="190a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪರಾಭವ">
 			<entry>
 				<title>ಕೈಲಾಸ</title>
 				<feature>ಕವನ</feature>
@@ -22735,7 +22633,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04b" snum="190b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪರಾಭವ ಸಂವತ್ಸರ">
+		<part pnum="04b" snum="190b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪರಾಭವ">
 			<entry>
 				<title>ಕೃತಕ ರತ್ನಗಳು</title>
 				<feature></feature>
@@ -22817,7 +22715,7 @@
 		</part>
 	</volume>
 	<volume vnum="049">
-		<part pnum="01" snum="191" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪ್ಲವಂಗ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="191" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪ್ಲವಂಗ">
 			<entry>
 				<title>ಇಂದಿನ ಈ ಪಾಡು</title>
 				<feature>ಕವನ</feature>
@@ -23027,7 +22925,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02a" snum="192a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪ್ಲವಂಗ ಸಂವತ್ಸರ">
+		<part pnum="02a" snum="192a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪ್ಲವಂಗ">
 			<entry>
 				<title>ಉಪ್ಪು ಕಡಲು</title>
 				<feature>ವಚನ</feature>
@@ -23205,7 +23103,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02b" snum="192b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪ್ಲವಂಗ ಸಂವತ್ಸರ">
+		<part pnum="02b" snum="192b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪ್ಲವಂಗ">
 			<entry>
 				<title>ಸಂಶೋಧನೆಯ ಮುನ್ನಡೆ -ಒಂದು ಮುಖ </title>
 				<feature></feature>
@@ -23279,7 +23177,7 @@
 				</allauthors>
 			</entry>
 			</part>
-		<part pnum="03" snum="193" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪ್ಲವಂಗ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="193" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1967" maasa="" samvatsara="ಪ್ಲವಂಗ">
 			<entry>
 				<title>ವಿಜ್ಞಾನಿಗೆ</title>
 				<feature>ಕವನ</feature>
@@ -23473,7 +23371,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04a" snum="194a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಪ್ಲವಂಗ ಸಂವತ್ಸರ">
+		<part pnum="04a" snum="194a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಪ್ಲವಂಗ">
 			<entry>
 				<title>ಸ್ವರ್ಣೋತ್ಸವ </title>
 				<feature>ಕವನ</feature>
@@ -23619,7 +23517,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04b" snum="194b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಪ್ಲವಂಗ ಸಂವತ್ಸರ">
+		<part pnum="04b" snum="194b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಪ್ಲವಂಗ">
 			<entry>
 				<title>ತಪ್ಪು ಭಾವನೆ-ಗ್ರಹಣಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -23695,7 +23593,7 @@
 			</part>
 	</volume>
 	<volume vnum="050">
-		<part pnum="01" snum="195" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಕೀಲಕ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="195" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಕೀಲಕ">
 			<entry>
 				<title>ಆ ಅಮೃತಕ್ಷಣ</title>
 				<feature>ಜೀವನಚರಿತ್ರೆ</feature>
@@ -24239,7 +24137,7 @@
 				<allauthors />
 			</entry>
 		</part>
-		<part pnum="02a" snum="196a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಕೀಲಕ ಸಂವತ್ಸರ">
+		<part pnum="02a" snum="196a" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಕೀಲಕ">
 			<entry>
 				<title>ಕನ್ನಡ ಸೌಂದರ್ಯಲಹರಿ</title>
 				<feature>ಸಾಹಿತ್ಯವಿಚಾರ</feature>
@@ -24345,7 +24243,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02b" snum="196b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಕೀಲಕ ಸಂವತ್ಸರ">
+		<part pnum="02b" snum="196b" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಕೀಲಕ">
 			<entry>
 				<title>ವಿಜ್ಞಾನಿಯ ನಗೆನೋಟಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -24403,7 +24301,7 @@
 				</allauthors>
 			</entry>
 			</part>
-		<part pnum="03" snum="197" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಕೀಲಕ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="197" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1968" maasa="" samvatsara="ಕೀಲಕ">
 			<entry>
 				<title>ಐವತ್ತು ವಚನಗಳು</title>
 				<feature>ವಚನ</feature>
@@ -24597,7 +24495,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04a" snum="198a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1969" maasa="" samvatsara="ಕೀಲಕ ಸಂವತ್ಸರ">
+		<part pnum="04a" snum="198a" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1969" maasa="" samvatsara="ಕೀಲಕ">
 			<entry>
 				<title>ದೀಕ್ಷಾಯಾತ್ರೆ</title>
 				<feature>ಸಂಕೀರ್ಣ</feature>
@@ -24703,14 +24601,12 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04b" snum="198b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1969" maasa="" samvatsara="ಕೀಲಕ ಸಂವತ್ಸರ">
+		<part pnum="04b" snum="198b" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1969" maasa="" samvatsara="ಕೀಲಕ">
 			<entry>
 				<title>ಸಸ್ಯ ಪ್ರಪಂಚ ದಲ್ಲಿ ಆಶ್ಚರ್ಯಕರ ವಿಷಯಗಳು </title>
 				<feature></feature>
 				<page>0001-0006</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಭಾಷಾವಿಜ್ಞಾನ ಕೋಶ</title>
@@ -24731,7 +24627,7 @@
 		</part>
 	</volume>
 	<volume vnum="051">
-		<part pnum="01" snum="199" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1969" maasa="" samvatsara="ಸೌಮ್ಯ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="199" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1969" maasa="" samvatsara="ಸೌಮ್ಯ">
 			<entry>
 				<title>ಸ್ನಾತಕೋತ್ತರ ವಿದ್ಯಾರ್ಥಿನಿಲಯ</title>
 				<feature>ಕವನ</feature>
@@ -24957,7 +24853,7 @@
 				</allauthors>
 			</entry>
 			</part>
-		<part pnum="02" snum="200" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1969" maasa="" samvatsara="ಸೌಮ್ಯ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="200" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1969" maasa="" samvatsara="ಸೌಮ್ಯ">
 			<entry>
 				<title>ನಾ ನನ್ನ ದೇವರೆತ್ತರ </title>
 				<feature>ಕವನ</feature>
@@ -25159,7 +25055,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="201" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1969" maasa="" samvatsara="ಸೌಮ್ಯ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="201" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1969" maasa="" samvatsara="ಸೌಮ್ಯ">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ಕೆಲವು ಸ್ಮೃತಿಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -25337,7 +25233,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="202" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1970" maasa="" samvatsara="ಸೌಮ್ಯ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="202" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1970" maasa="" samvatsara="ಸೌಮ್ಯ">
 			<entry>
 				<title>ಭಾರತಭೂಮಿ</title>
 				<feature>ಕವನ</feature>
@@ -25589,7 +25485,7 @@
 		</part>
 	</volume>
 	<volume vnum="052">
-		<part pnum="01" snum="203" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1970" maasa="" samvatsara="ಸಾಧಾರಣ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="203" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1970" maasa="" samvatsara="ಸಾಧಾರಣ">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ಕೆಲವು ಸ್ಮೃತಿಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -25791,7 +25687,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="204" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1970" maasa="" samvatsara="ಸಾಧಾರಣ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="204" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1970" maasa="" samvatsara="ಸಾಧಾರಣ">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ಕೆಲವು ಸ್ಮೃತಿಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -25961,7 +25857,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="205" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1970" maasa="" samvatsara="ಸಾಧಾರಣ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="205" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1970" maasa="" samvatsara="ಸಾಧಾರಣ">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ಕೆಲವು ಸ್ಮೃತಿಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -26123,7 +26019,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="206" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1971" maasa="" samvatsara="ಸಾಧಾರಣ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="206" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1971" maasa="" samvatsara="ಸಾಧಾರಣ">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ಕೆಲವು ಸ್ಮೃತಿಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -26279,7 +26175,7 @@
 		</part>
 	</volume>
 	<volume vnum="053">
-		<part pnum="01" snum="207" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1971" maasa="" samvatsara="ವಿರೋಧಿಕೃತ್ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="207" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1971" maasa="" samvatsara="ವಿರೋಧಿಕೃತ್">
 			<entry>
 				<title>ಶ್ರೀ ರಾಮಾಯಣದರ್ಶನಂ (ಸಂಸ್ಕೃತಾನುವಾದ)</title>
 				<feature>ಕವನ</feature>
@@ -26465,7 +26361,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="208" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1971" maasa="" samvatsara="ವಿರೋಧಿಕೃತ್ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="208" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1971" maasa="" samvatsara="ವಿರೋಧಿಕೃತ್">
 			<entry>
 				<title>ಸ್ವಾಮಿ ವಿವೇಕಾನಂದ ಕೆಲವು ಸ್ಮೃತಿಗಳು</title>
 				<feature>ಶಾಸ್ತ್ರವಿಚಾರ</feature>
@@ -26635,7 +26531,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="209" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1971" maasa="" samvatsara="ವಿರೋಧಿಕೃತ್  ಸಂವತ್ಸರ">
+		<part pnum="03" snum="209" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1971" maasa="" samvatsara="ವಿರೋಧಿಕೃತ್ ">
 			<entry>
 				<title>ಸತಿ</title>
 				<feature>ಕವನ</feature>
@@ -26805,7 +26701,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="210" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1972" maasa="" samvatsara="ವಿರೋಧಿಕೃತ್ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="210" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1972" maasa="" samvatsara="ವಿರೋಧಿಕೃತ್">
 			<entry>
 				<title>ಶಿಷ್ಯನ ಧ್ಯೆರ್ಯ</title>
 				<feature>ಕವನ</feature>
@@ -26993,7 +26889,7 @@
 		</part>
 	</volume>
 	<volume vnum="054">
-		<part pnum="01" snum="211" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1972" maasa="" samvatsara="ಪರೀಧಾವಿ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="211" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1972" maasa="" samvatsara="ಪರೀಧಾವಿ">
 			<entry>
 				<title>ಐಕ್ಯ</title>
 				<feature>ಕವನ</feature>
@@ -27123,7 +27019,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="212" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1972" maasa="" samvatsara="ಪರೀಧಾವಿ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="212" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1972" maasa="" samvatsara="ಪರೀಧಾವಿ">
 			<entry>
 				<title>ದೈನ್ಯತೆ</title>
 				<feature>ಕವನ</feature>
@@ -27269,7 +27165,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="213" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1972" maasa="" samvatsara="ಪರೀಧಾವಿ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="213" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1972" maasa="" samvatsara="ಪರೀಧಾವಿ">
 			<entry>
 				<title>ಕುರುಡ</title>
 				<feature>ಕವನ</feature>
@@ -27463,7 +27359,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="214" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1973" maasa="" samvatsara="ಪರೀಧಾವಿ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="214" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1973" maasa="" samvatsara="ಪರೀಧಾವಿ">
 			<entry>
 				<title>ಕಾರಿರುಳು-ಕಾರ್ಮಿಂಚು</title>
 				<feature>ಕವನ</feature>
@@ -27707,7 +27603,7 @@
 		</part>
 	</volume>
 	<volume vnum="055">
-		<part pnum="01" snum="215" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1973" maasa="" samvatsara="ಪ್ರಮಾದೀಚ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="215" month="ಚೈತ್ರ ಸಂಚಿಕೆ" year="1973" maasa="" samvatsara="ಪ್ರಮಾದೀಚ">
 			<entry>
 				<title>ಪಂಪ</title>
 				<feature>ಕವನ</feature>
@@ -27917,7 +27813,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="02" snum="216" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1973" maasa="" samvatsara="ಪ್ರಮಾದೀಚ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="216" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1973" maasa="" samvatsara="ಪ್ರಮಾದೀಚ">
 			<entry>
 				<title>ಬಾಲವಿಧವೆ</title>
 				<feature>ಕವನ</feature>
@@ -28135,7 +28031,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="217" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1973" maasa="" samvatsara="ಪ್ರಮಾದೀಚ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="217" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1973" maasa="" samvatsara="ಪ್ರಮಾದೀಚ">
 			<entry>
 				<title>ಉತ್ತರ ವಿಲ್ಲದ ಪ್ರಶ್ನೆ</title>
 				<feature>ಕವನ</feature>
@@ -28353,7 +28249,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="04" snum="218" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1974" maasa="" samvatsara="ಪ್ರಮಾದೀಚ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="218" month="ಪುಷ್ಯ ಸಂಚಿಕೆ" year="1974" maasa="" samvatsara="ಪ್ರಮಾದೀಚ">
 			<entry>
 				<title>ಸಿಡ್ಲೇಹಳ್ಳಿ ಮತ್ತು ತಾರಿಣಯ ಪ್ರಾರ್ಥನೆ</title>
 				<feature>ಕವನ</feature>
@@ -28493,7 +28389,7 @@
 		</part>
 	</volume>
 	<volume vnum="056">
-		<part pnum="01" snum="219" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1974" maasa="" samvatsara="ಆನಂದ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="219" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1974" maasa="" samvatsara="ಆನಂದ">
 			<entry>
 				<title>ಸಂದೇಹ </title>
 				<feature>ಕವನ </feature>
@@ -28618,9 +28514,7 @@
 				<title></title>
 				<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು</feature>
 				<page>0093-0093</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಮೂರಿ ಎಂದರೇನು? </title>
@@ -28660,84 +28554,64 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
-		<part pnum="03" snum="221" month="ಮಾರ್ಗಶಿರ ಸಂಚಿಕೆ" year="1974" maasa="" samvatsara="ಆನಂದ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="221" month="ಮಾರ್ಗಶಿರ ಸಂಚಿಕೆ" year="1974" maasa="" samvatsara="ಆನಂದ">
 			<entry>
 				<title>ಮೂಕಂ ಕರೋತಿ ವಾಚಾಲಂ</title>
 				<feature>ಕವನ </feature>
@@ -28822,9 +28696,7 @@
 				<title>ಸುಭಾಷಿತ </title>
 				<feature></feature>
 				<page>0036-0040</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಷಡಕ್ಷರಿಯ ಕೃತಿಗಳು </title>
@@ -28854,9 +28726,7 @@
 				<title>ಕಾವ್ಯವಿತಾನ </title>
 				<feature>ದಕ್ಷಯಾಗ ಜಾನಕೀತನಯ</feature>
 				<page>0079-0092</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಕಾಶೀಕಾಂಡದ ಚನ್ನವೀರನ (ಸು .೧೫೦೦)ಜಂಗಮ ತಾರಾವಳಿ -ಒಂದು ಟಿಪ್ಪಣಿ  </title>
@@ -28896,86 +28766,66 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>
 	<volume vnum="057">
-		<part pnum="01" snum="223" month="ಜೇಷ್ಠ ಸಂಚಿಕೆ" year="1975" maasa="" samvatsara="ರಾಕ್ಷಸ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="223" month="ಜೇಷ್ಠ ಸಂಚಿಕೆ" year="1975" maasa="" samvatsara="ರಾಕ್ಷಸ">
 			<entry>
 				<title>ಹವ್ಯಕ ಕನ್ನಡ್ದಲ್ಲಿ ವಿಭಕ್ತಿ ಪ್ರಯೋಗ </title>
 				<feature></feature>
@@ -29081,7 +28931,7 @@
 				</allauthors>
 			</entry>
 		</part>	
-		<part pnum="02" snum="224" month="ಭಾದ್ರಪದ ಸಂಚಿಕೆ" year="1975" maasa="" samvatsara="ರಾಕ್ಷಸ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="224" month="ಭಾದ್ರಪದ ಸಂಚಿಕೆ" year="1975" maasa="" samvatsara="ರಾಕ್ಷಸ">
 			<entry>
 				<title>ನನ್ನ ಹೊಸ ಹಾಡು </title>
 				<feature></feature>
@@ -29195,7 +29045,7 @@
 				</allauthors>
 			</entry>	
 		</part>
-		<part pnum="03" snum="225" month="ಮಾರ್ಗಶಿರ ಸಂಚಿಕೆ" year="1975" maasa="" samvatsara="ರಾಕ್ಷಸ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="225" month="ಮಾರ್ಗಶಿರ ಸಂಚಿಕೆ" year="1975" maasa="" samvatsara="ರಾಕ್ಷಸ">
 			<entry>
 				<title>ಶಾಸನಕವಿ ಮಾಧವ ವಿಬುಧ </title>
 				<feature>ಸಂಶೋಧನೆ </feature>
@@ -29269,7 +29119,7 @@
 				</allauthors>
 			</entry>
 		</part>	
-		<part pnum="04" snum="226" month="ಫಾಲ್ಗುಣ ಸಂಚಿಕೆ" year="1976" maasa="" samvatsara="ರಾಕ್ಷಸ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="226" month="ಫಾಲ್ಗುಣ ಸಂಚಿಕೆ" year="1976" maasa="" samvatsara="ರಾಕ್ಷಸ">
 			<entry>
 				<title>ಸದಾಶಿವಗುರು </title>
 				<feature>ಕವನ </feature>
@@ -29377,7 +29227,7 @@
 		</part>	
 	</volume>
 	<volume vnum="058">
-		<part pnum="01" snum="227" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1976" maasa="" samvatsara="ನಳ ಸಂವತ್ಸರ">
+		<part pnum="01" snum="227" month="ಆಷಾಢ ಸಂಚಿಕೆ" year="1976" maasa="" samvatsara="ನಳ">
 			<entry>
 				<title>ಓ ನನ್ನ ಕನ್ನಡವೆ ! </title>
 				<feature>ಕವನ </feature>
@@ -29539,7 +29389,7 @@
 				</allauthors>
 			</entry>
 		</part>	
-		<part pnum="02" snum="228" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1976" maasa="" samvatsara="ನಳ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="228" month="ಆಶ್ವಯುಜ ಸಂಚಿಕೆ" year="1976" maasa="" samvatsara="ನಳ">
 			<entry>
 				<title>ವಂಚಿಸಿದ ಬೆಳಕುಗಂಬಗಳು </title>
 				<feature>ಕವನ </feature>
@@ -29693,7 +29543,7 @@
 				</allauthors>
 			</entry>
 		</part>
-		<part pnum="03" snum="229" month="ಮಾರ್ಗಶಿರ ಸಂಚಿಕೆ" year="1976" maasa="" samvatsara="ನಳ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="229" month="ಮಾರ್ಗಶಿರ ಸಂಚಿಕೆ" year="1976" maasa="" samvatsara="ನಳ">
 			<entry>
 				<title>ಕೋಣಾಜೆಯ ಕೋಣೆ </title>
 				<feature>ಕವನ</feature>
@@ -29823,7 +29673,7 @@
 				</allauthors>
 			</entry>
 		</part>	
-		<part pnum="04" snum="230" month="ಫಾಲ್ಗುಣ ಸಂಚಿಕೆ" year="1977" maasa="" samvatsara="ನಳ ಸಂವತ್ಸರ">
+		<part pnum="04" snum="230" month="ಫಾಲ್ಗುಣ ಸಂಚಿಕೆ" year="1977" maasa="" samvatsara="ನಳ">
 			<entry>
 				<title>ಅಭಿವಂದನೆ </title>
 				<feature>ಕವನ </feature>
@@ -29960,81 +29810,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>		
 		<part pnum="04" snum="246" month="" year="" maasa="" samvatsara="">
@@ -30042,81 +29872,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>
@@ -30126,81 +29936,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="02" snum="" month="" year="" maasa="" samvatsara="">
@@ -30208,81 +29998,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
 		<part pnum="03" snum="" month="" year="" maasa="" samvatsara="">
@@ -30290,81 +30060,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="04" snum="" month="" year="" maasa="" samvatsara="">
@@ -30372,81 +30122,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>
@@ -30456,81 +30186,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="02" snum="" month="" year="" maasa="" samvatsara="">
@@ -30538,81 +30248,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
 		<part pnum="03" snum="" month="" year="" maasa="" samvatsara="">
@@ -30620,81 +30310,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="04" snum="" month="" year="" maasa="" samvatsara="">
@@ -30702,81 +30372,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>
@@ -30786,81 +30436,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="02" snum="" month="" year="1980" maasa="" samvatsara="ರೌದ್ರಿ">
@@ -30868,84 +30498,64 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
-		<part pnum="02" snum="232" month="ಶ್ರಾವಣ ಸಂಚಿಕೆ" year="1980" maasa="" samvatsara="ರೌದ್ರಿ ಸಂವತ್ಸರ">
+		<part pnum="02" snum="232" month="ಶ್ರಾವಣ ಸಂಚಿಕೆ" year="1980" maasa="" samvatsara="ರೌದ್ರಿ">
 			<entry>
 				<title>ಬಾಪೂ</title>
 				<feature>ಕವನ</feature>
@@ -31060,7 +30670,7 @@
 				<allauthors />
 			</entry>	
 		</part>
-		<part pnum="03" snum="245" month="ಮಾರ್ಗಶಿರ ಸಂಚಿಕೆ" year="1980" maasa="" samvatsara="ರೌದ್ರಿ ಸಂವತ್ಸರ">
+		<part pnum="03" snum="245" month="ಮಾರ್ಗಶಿರ ಸಂಚಿಕೆ" year="1980" maasa="" samvatsara="ರೌದ್ರಿ">
 			<entry>
 				<title>ಯೋಚಿಸುತ್ತೇನೆ</title>
 				<feature>ಕವನ</feature>
@@ -31194,81 +30804,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>
@@ -31442,81 +31032,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="04" snum="" month="" year="1981" maasa="" samvatsara="ದುರ್ಮತಿ ">
@@ -31524,81 +31094,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>
@@ -31928,81 +31478,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="02" snum="" month="" year="" maasa="" samvatsara="">
@@ -32010,81 +31540,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
 		<part pnum="03" snum="" month="" year="" maasa="" samvatsara="">
@@ -32092,81 +31602,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="04" snum="" month="" year="" maasa="" samvatsara="">
@@ -32174,81 +31664,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>
@@ -32984,9 +32454,7 @@
 				<title>ಪಾಂಡುರಂಗವಿಠ್ಠಲ ಪುರಂದರವಿಠ್ಠಲ</title>
 				<feature></feature>
 				<page>0039-0042</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಪತ್ರಿಕೋದ್ಯಮ ಕ್ಷೆತ್ರದಲ್ಲಿ ಛಾಯಾಚಿತ್ರಕ್ಕಿರುವ ಪ್ರಾಮುಖ್ಯತೆ</title>
@@ -33060,81 +32528,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="02" snum="" month="" year="1985" maasa="" samvatsara="ಕ್ರೋಧನ ">
@@ -33142,81 +32590,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
 		<part pnum="03" snum="" month="ಆಶ್ವಯುಜ " year="1985" maasa="ಆಶ್ವಯುಜ " samvatsara="ಕ್ರೋಧನ ">
@@ -33785,9 +33213,7 @@
 				<title>ಸಂಪಾದಕೀಯ </title>
 				<feature></feature>
 				<page>0000-0001</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಕೆರೇಬಿಯನ್ ದ್ವೀಪಗಳಲ್ಲಿ </title>
@@ -34805,9 +34231,7 @@
 				<title>ತುಮುಲದ ತುಡಿತಗಳು </title>
 				<feature>ಕವನ </feature>
 				<page>0151-0164</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title>ಪಾದುಕಾಸಹಸ್ರ </title>
@@ -35003,81 +34427,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="02" snum="" month="" year="" maasa="" samvatsara="">
@@ -35085,81 +34489,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
 		<part pnum="03" snum="" month="" year="" maasa="" samvatsara="">
@@ -35167,81 +34551,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="04" snum="" month="" year="" maasa="" samvatsara="">
@@ -35249,81 +34613,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>	
@@ -35333,81 +34677,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="02" snum="" month="" year="" maasa="" samvatsara="">
@@ -35415,81 +34739,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
 		<part pnum="03" snum="" month="" year="" maasa="" samvatsara="">
@@ -35497,81 +34801,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="04" snum="" month="" year="" maasa="" samvatsara="">
@@ -35579,81 +34863,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>	
@@ -35663,81 +34927,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="02" snum="" month="" year="" maasa="" samvatsara="">
@@ -35745,81 +34989,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
 		<part pnum="03" snum="" month="" year="" maasa="" samvatsara="">
@@ -35827,81 +35051,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="04" snum="" month="" year="" maasa="" samvatsara="">
@@ -35909,81 +35113,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>	
@@ -35993,81 +35177,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="02" snum="" month="" year="" maasa="" samvatsara="">
@@ -36075,81 +35239,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
 		<part pnum="03" snum="" month="" year="" maasa="" samvatsara="">
@@ -36157,81 +35301,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="04" snum="" month="" year="" maasa="" samvatsara="">
@@ -36239,81 +35363,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>	
@@ -36323,81 +35427,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="02" snum="" month="" year="" maasa="" samvatsara="">
@@ -36405,81 +35489,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
 		<part pnum="03" snum="" month="" year="" maasa="" samvatsara="">
@@ -36487,81 +35551,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="04" snum="" month="" year="" maasa="" samvatsara="">
@@ -36569,81 +35613,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>	
@@ -36653,81 +35677,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="02" snum="" month="" year="" maasa="" samvatsara="">
@@ -36735,81 +35739,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>	
 		</part>
 		<part pnum="03" snum="" month="" year="" maasa="" samvatsara="">
@@ -36817,81 +35801,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 		<part pnum="04" snum="" month="" year="" maasa="" samvatsara="">
@@ -36899,81 +35863,61 @@
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 			<entry>
 				<title></title>
 				<feature></feature>
 				<page>0000-0000</page>
-				<allauthors>
-					<author type="01" title=""></author>
-				</allauthors>
+				<allauthors />
 			</entry>
 		</part>	
 	</volume>
