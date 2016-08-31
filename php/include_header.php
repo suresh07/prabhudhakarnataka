@@ -8,7 +8,9 @@
 	<link rel="stylesheet" href="css/reset.css"> <!-- CSS reset -->
 	<link rel="stylesheet" href="css/style.css"> <!-- Resource style -->
 	<link rel="stylesheet" href="css/jquery-ui.css" /> <!-- jQuery UI style -->
+<!--
 	<link rel="shortcut icon" type="image/ico" href="img/logo.gif" />
+-->
 
 	<link href="css/font-awesome-4.1.0/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css" /> <!-- Icon gallery (fontAwesome) style -->
 	<script src="js/modernizr.js"></script> <!-- Modernizr -->
@@ -21,7 +23,9 @@
 	<header class="cd-header">
 		<div id="cd-logo">
 			<a href="../index.html#home">
+<!--
 				<img src="img/logo.gif" alt="Logo">
+-->
 				<span>ಪ್ರಬುದ್ಧ ಕರ್ನಾಟಕ</span>
 				<!--<img src="img/logo2.gif" alt="Logo"> -->
 			</a>

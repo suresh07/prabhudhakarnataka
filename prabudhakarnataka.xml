@@ -3468,8 +3468,8 @@
 		<part pnum="01" snum="059" month="ವಿನಾಯನಕ ಸಂಚಿಕೆ" year="1934" maasa="" samvatsara="ಭಾವ">
 				<entry>
 				<title>ಕವಿಶೈಲ </title>
-				<feature>0001-0002</feature>
-				<page>0000-0000</page>
+				<feature></feature>
+				<page>0001-0002</page>
 				<allauthors>
 					<author type="01" title="">ಪುಟ್ಟಪ್ಪ ಕೆ.ವಿ </author>
 				</allauthors>
@@ -3813,7 +3813,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title> ಕಲೆ ಮತ್ತು ನೀನು </title>
+				<title>ಕಲೆ ಮತ್ತು ನೀನು </title>
 				<feature>ಕವನ</feature>
 				<page>0022-0022</page>
 				<allauthors>
@@ -4139,7 +4139,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title> ಸರಸುವಿನ ವಿದ್ಯಾಭ್ಯಾಸ </title>
+				<title>ಸರಸುವಿನ ವಿದ್ಯಾಭ್ಯಾಸ </title>
 				<feature></feature>
 				<page>0039-0048</page>
 				<allauthors>
@@ -10355,8 +10355,8 @@
 			</entry>
 			<entry>
 				<title>ಕಾವ್ಯಾವಲೋಕನ </title>
-				<feature>0104-0126</feature>
-				<page>0000-0000</page>
+				<feature></feature>
+				<page>0104-0126</page>
 				<allauthors>
 					<author type="01" title="">ಹಲವರು</author>
 				</allauthors>
@@ -11275,7 +11275,7 @@
 				<feature>ಕವಿತೆ</feature>
 				<page>0090-0090</page>
 				<allauthors>
-					<author type="01" title=""> ಶಿವರುದ್ರಪ್ಪ  ಜಿ ಎಸ್</author>
+					<author type="01" title="">ಶಿವರುದ್ರಪ್ಪ  ಜಿ ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -11446,8 +11446,8 @@
 			</entry>
 			<entry>
 				<title>ಸಾದರ ಸ್ವೀಕಾರ </title>
-				<feature>0261-0262</feature>
-				<page>0000-0000</page>
+				<feature></feature>
+				<page>0261-0262</page>
 				<allauthors>
 					<author type="01" title="">ಹಲವರು</author>
 				</allauthors>
@@ -20701,7 +20701,7 @@
 				<feature>ಪ್ರಬಂಧ </feature>
 				<page>0137-0153</page>
 				<allauthors>
-					<author type="01" title=""> ವೆಂಕಟರಾಮಪ್ಪ ಕೆ</author>
+					<author type="01" title="">ವೆಂಕಟರಾಮಪ್ಪ ಕೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22255,7 +22255,7 @@
 				<feature></feature>
 				<page>0023-0048</page>
 				<allauthors>
-					<author type="01" title=""> ಕುಂಭಾರ ಎಂ. ಆರ್ </author>
+					<author type="01" title="">ಕುಂಭಾರ ಎಂ. ಆರ್ </author>
 					<author type="01" title="">ಗುಂಜಾಳ ಎಸ್ .ಆರ್ </author>
 				</allauthors>
 			</entry>
@@ -22830,7 +22830,7 @@
 			</entry>
 			<entry>
 				<title>ಕೃಷ್ಣಕಾಳಿ</title>
-				<feature>ಅ</feature>
+				<feature></feature>
 				<page>0123-0124</page>
 				<allauthors>
 					<author type="01" title="">ತಾರಾನಾಥ್ ನಾ ಶ್ರೀ</author>
@@ -22939,7 +22939,7 @@
 				<feature>ಪ್ರಬಂಧ</feature>
 				<page>0005-0013</page>
 				<allauthors>
-					<author type="01" title=""> ವೆಂಕಟರಾಮಪ್ಪ ಕೆ </author>
+					<author type="01" title="">ವೆಂಕಟರಾಮಪ್ಪ ಕೆ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -22987,7 +22987,7 @@
 				<feature>ಕವಿತೆ </feature>
 				<page>0054-0054</page>
 				<allauthors>
-					<author type="01" title=""> ವೆಂಕಟರಾಮು ಕ . ಶ್ರೀ </author>
+					<author type="01" title="">ವೆಂಕಟರಾಮು ಕ . ಶ್ರೀ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28101,7 +28101,7 @@
 				<feature>ಸಂಗ್ರಹ </feature>
 				<page>0053-0055</page>
 				<allauthors>
-					<author type="01" title=""> ತಿಪ್ಪೇಸ್ವಾಮಿ ಪಿ ಆರ್ </author>
+					<author type="01" title="">ತಿಪ್ಪೇಸ್ವಾಮಿ ಪಿ ಆರ್ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28419,7 +28419,7 @@
 				<feature>ಕವನ </feature>
 				<page>0046-0046</page>
 				<allauthors>
-					<author type="01" title=""> ಸನದಿ ಬಿ ಎ</author>
+					<author type="01" title="">ಸನದಿ ಬಿ ಎ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -28427,7 +28427,7 @@
 				<feature>ಪರಿಚಯ </feature>
 				<page>0047-0053</page>
 				<allauthors>
-					<author type="01" title=""> ದೇಶಪಾಂಡೆ ಕೆ ಎಸ್</author>
+					<author type="01" title="">ದೇಶಪಾಂಡೆ ಕೆ ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29099,7 +29099,7 @@
 				<feature></feature>
 				<page>0049-0062</page>
 				<allauthors>
-					<author type="01" title=""> ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ ಟಿ ವಿ </author>
+					<author type="01" title="">ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ ಟಿ ವಿ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -29605,7 +29605,7 @@
 				<feature></feature>
 				<page>0051-0054</page>
 				<allauthors>
-					<author type="01" title=""> ರಾಮಸ್ವಾಮಿ ಅಯ್ಯಂಗಾರ್ ಗೊರೂರು  ಡಾ</author>
+					<author type="01" title="">ರಾಮಸ್ವಾಮಿ ಅಯ್ಯಂಗಾರ್ ಗೊರೂರು  ಡಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -30967,7 +30967,7 @@
 				<feature></feature>
 				<page>0038-0038</page>
 				<allauthors>
-					<author type="01" title=""> ವಿರೂಪಾಕ್ಷ ಗೌಡ ಕೆ </author>
+					<author type="01" title="">ವಿರೂಪಾಕ್ಷ ಗೌಡ ಕೆ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -31231,7 +31231,7 @@
 				<feature></feature>
 				<page>0083-0093</page>
 				<allauthors>
-					<author type="01" title=""> ಪಾಟೀಲ ಎಸ್ ಪಿ </author>
+					<author type="01" title="">ಪಾಟೀಲ ಎಸ್ ಪಿ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -31313,7 +31313,7 @@
 				<feature></feature>
 				<page>0059-0080</page>
 				<allauthors>
-					<author type="01" title=""> ರಘುನಾಥ ಭಟ್ ಡಾ ಎಚ್ ಆರ್ </author>
+					<author type="01" title="">ರಘುನಾಥ ಭಟ್ ಡಾ ಎಚ್ ಆರ್ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -31432,8 +31432,8 @@
 			</entry>
 			<entry>
 				<title>ಹಂಬಲ </title>
-				<feature>0141-0142</feature>
-				<page>0000-0000</page>
+				<feature></feature>
+				<page>0141-0142</page>
 				<allauthors>
 					<author type="01" title="">ಗಂಗಾಧರಾಚಾರ್ ಎಚ್ ಎಚ್ </author>
 				</allauthors>
@@ -31793,7 +31793,7 @@
 				<feature>ಕವಿತೆ </feature>
 				<page>0060-0060</page>
 				<allauthors>
-					<author type="01" title=""> ಈರೇಗೌಡ ಡಿ ಕೆ </author>
+					<author type="01" title="">ಈರೇಗೌಡ ಡಿ ಕೆ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -32135,7 +32135,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title> ಅಮ್ಮಾವ್ರ ಗಂಡ ಅಥ್ವವಾ ಯಜಮಾನ್ರ್ಸ ಹೆಂಡ್ತಿ </title>
+				<title>ಅಮ್ಮಾವ್ರ ಗಂಡ ಅಥ್ವವಾ ಯಜಮಾನ್ರ್ಸ ಹೆಂಡ್ತಿ </title>
 				<feature></feature>
 				<page>0255-0258</page>
 				<allauthors>
@@ -32329,7 +32329,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title> ಸೂತ್ರದ ಗೊಂಬೆಯಾಟದ ಸಂದರ್ಭದ ವಿಧಿ-ಕ್ರಿಯೆಗಳು </title>
+				<title>ಸೂತ್ರದ ಗೊಂಬೆಯಾಟದ ಸಂದರ್ಭದ ವಿಧಿ-ಕ್ರಿಯೆಗಳು </title>
 				<feature></feature>
 				<page>0031-0038</page>
 				<allauthors>
@@ -32365,7 +32365,7 @@
 				<feature></feature>
 				<page>0065-0078</page>
 				<allauthors>
-					<author type="01" title=""> ರಾಘವೇಂದ್ರರಾವ್ ಕೆ</author>
+					<author type="01" title="">ರಾಘವೇಂದ್ರರಾವ್ ಕೆ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -32773,7 +32773,7 @@
 				<feature>ಕಮ್ಮಟದ ಕಿಡಿ </feature>
 				<page>0169-0175</page>
 				<allauthors>
-					<author type="01" title=""> ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ ಟಿ ವಿ </author>
+					<author type="01" title="">ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ ಟಿ ವಿ </author>
 				</allauthors>
 			</entry>
 		</part>
@@ -32831,7 +32831,7 @@
 				<feature></feature>
 				<page>0071-0074</page>
 				<allauthors>
-					<author type="01" title=""> ಪರಮೇಶ್ವರ ಭಟ್ಟ ಎಸ್ ವಿ </author>
+					<author type="01" title="">ಪರಮೇಶ್ವರ ಭಟ್ಟ ಎಸ್ ವಿ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -32843,7 +32843,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>ನಮನ </title> 
+				<title>ನಮನ </title>
 				<feature></feature>
 				<page>0080-0080</page>
 				<allauthors>
@@ -32911,7 +32911,7 @@
 				<feature></feature>
 				<page>0107-0112</page>
 				<allauthors>
-					<author type="01" title=""> ರಾಘವ ಟಿ ವಿ </author>
+					<author type="01" title="">ರಾಘವ ಟಿ ವಿ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -32935,7 +32935,7 @@
 				<feature></feature>
 				<page>0129-0134</page>
 				<allauthors>
-					<author type="01" title=""> ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ ಟಿ ವಿ </author>
+					<author type="01" title="">ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ ಟಿ ವಿ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -32951,7 +32951,7 @@
 				<feature></feature>
 				<page>0139-0148</page>
 				<allauthors>
-					<author type="01" title=""> ರಾಮಸ್ವಾಮಿ ಅಯ್ಯಂಗಾರ್ ಗೊರೂರು</author>
+					<author type="01" title="">ರಾಮಸ್ವಾಮಿ ಅಯ್ಯಂಗಾರ್ ಗೊರೂರು</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -32975,7 +32975,7 @@
 				<feature></feature>
 				<page>0159-0164</page>
 				<allauthors>
-					<author type="01" title=""> ಸಣ್ಣಯ್ಯ ಬಿ ಎಸ್</author>
+					<author type="01" title="">ಸಣ್ಣಯ್ಯ ಬಿ ಎಸ್</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -33075,7 +33075,7 @@
 				<feature></feature>
 				<page>0052-0053</page>
 				<allauthors>
-					<author type="01" title=""> ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ  ಡಾ ಟಿ ವಿ </author>
+					<author type="01" title="">ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ  ಡಾ ಟಿ ವಿ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -33115,7 +33115,7 @@
 				<feature></feature>
 				<page>0082-0090</page>
 				<allauthors>
-					<author type="01" title=""> ಅರ್ವಿಯಸ್ ಡಾ</author>
+					<author type="01" title="">ಅರ್ವಿಯಸ್ ಡಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -33187,7 +33187,7 @@
 				<feature></feature>
 				<page>0173-0188</page>
 				<allauthors>
-					<author type="01" title=""> ಶೇಷಗಿರಿ ಕೆ ಆರ್ </author>
+					<author type="01" title="">ಶೇಷಗಿರಿ ಕೆ ಆರ್ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -33345,8 +33345,8 @@
 			</entry>
 			<entry>
 				<title>ಗಡಿನಾಡ ಕನ್ನಡ ತಾಯಿ </title>
-				<feature>0211-0216</feature>
-				<page>0000-0000</page>
+				<feature></feature>
+				<page>0211-0216</page>
 				<allauthors>
 					<author type="01" title="">ವಿಶ್ವೇಶ್ವರಯ್ಯ ತೇಸಿ </author>
 				</allauthors>
@@ -33672,7 +33672,7 @@
 				<feature></feature>
 				<page>0021-0036</page>
 				<allauthors>
-					<author type="01" title=""> ರಾಮಸ್ವಾಮಿ ಅಯ್ಯಂಗಾರ್ ಗೊರೂರು  ಡಾ</author>
+					<author type="01" title="">ರಾಮಸ್ವಾಮಿ ಅಯ್ಯಂಗಾರ್ ಗೊರೂರು  ಡಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -33704,7 +33704,7 @@
 				<feature></feature>
 				<page>0081-0096</page>
 				<allauthors>
-					<author type="01" title=""> ಅನಂತರಂಗಾಚಾರ್ ಡಾ ಎನ್ </author>
+					<author type="01" title="">ಅನಂತರಂಗಾಚಾರ್ ಡಾ ಎನ್ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -33712,7 +33712,7 @@
 				<feature></feature>
 				<page>0097-0120</page>
 				<allauthors>
-					<author type="01" title=""> ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ ಡಾ  ಟಿ ವಿ </author>
+					<author type="01" title="">ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ ಡಾ  ಟಿ ವಿ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -33804,7 +33804,7 @@
 				<feature>ಪ್ರಬಂಧ </feature>
 				<page>0081-0095</page>
 				<allauthors>
-					<author type="01" title=""> ರಾಮಸ್ವಾಮಿ ಅಯ್ಯಂಗಾರ್ ಗೊರೂರು  ಡಾ</author>
+					<author type="01" title="">ರಾಮಸ್ವಾಮಿ ಅಯ್ಯಂಗಾರ್ ಗೊರೂರು  ಡಾ</author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -34098,7 +34098,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title> ನವಜೀವನಗಾನ </title>
+				<title>ನವಜೀವನಗಾನ </title>
 				<feature>ಕವನ </feature>
 				<page>0189-0189</page>
 				<allauthors>
@@ -34328,7 +34328,7 @@
 				<feature></feature>
 				<page>0000-0000</page>
 				<allauthors>
-					<author type="01" title=""> ಲತಾ ಕೆ ಎ </author>
+					<author type="01" title="">ಲತಾ ಕೆ ಎ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -34336,7 +34336,7 @@
 				<feature></feature>
 				<page>0000-0000</page>
 				<allauthors>
-					<author type="01" title=""> ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ  ಡಾ ಟಿ ವಿ </author>
+					<author type="01" title="">ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ  ಡಾ ಟಿ ವಿ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -34384,7 +34384,7 @@
 				<feature>ಕವನ </feature>
 				<page>0000-0000</page>
 				<allauthors>
-					<author type="01" title=""> ಬಸವರಾಜಪ್ಪ ಹ ಮ </author>
+					<author type="01" title="">ಬಸವರಾಜಪ್ಪ ಹ ಮ </author>
 				</allauthors>
 			</entry>
 			<entry>
@@ -34400,7 +34400,7 @@
 				<feature>ಕಮ್ಮಟದ ಕಿಡಿಗಳು </feature>
 				<page>0000-0000</page>
 				<allauthors>
-					<author type="01" title=""> ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ ಡಾ  ಟಿ ವಿ </author>
+					<author type="01" title="">ವೆಂಕಟಾಚಲಶಾಸ್ತ್ರೀ ಡಾ  ಟಿ ವಿ </author>
 				</allauthors>
 			</entry>
 			<entry>
